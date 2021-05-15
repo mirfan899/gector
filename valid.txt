@@ -1,0 +1,116 @@
+Lucy $KEEP
+, $KEEP
+Molly $KEEP
+, $KEEP
+and $KEEP
+their $KEEP
+parents $KEEP
+, $KEEP
+a $KEEP
+cowboy $KEEP
+, $KEEP
+and $KEEP
+a $KEEP
+teacher $KEEP
+. $KEEP
+
+The $KEEP
+movie $KEEP
+is $KEEP
+about $KEEP
+Lucy $KEEP
+'s $KEEP
+family $APPEND_,
+that $REPLACE_who
+moves $TRANSFORM_VERB_VBZ_VB
+into $KEEP
+a $KEEP
+farmhouse $APPEND_that
+, $REPLACE_is
+mysterious $KEEP
+and $KEEP
+
+scary $KEEP
+. $KEEP
+
+Also $KEEP
+reflects $KEEP
+a $KEEP
+comparison $KEEP
+of $KEEP
+Lucy $KEEP
+'s $KEEP
+family $KEEP
+, $KEEP
+and $KEEP
+characters $KEEP
+
+from $KEEP
+a $KEEP
+story $KEEP
+their $KEEP
+mom $KEEP
+read $DELETE
+often $APPEND_reads
+. $KEEP
+
+The $KEEP
+story $KEEP
+actually $KEEP
+takes $KEEP
+place $KEEP
+in $KEEP
+a $KEEP
+camp $KEEP
+, $DELETE
+and $APPEND_a
+farmhouse $KEEP
+, $KEEP
+mysteriously $KEEP
+
+used $KEEP
+in $KEEP
+other $KEEP
+times $KEEP
+. $KEEP
+
+It $KEEP
+'s $KEEP
+interesting $KEEP
+because $KEEP
+Lucy $KEEP
+'s $KEEP
+mom $KEEP
+discovered $KEEP
+a $KEEP
+wall $KEEP
+in $KEEP
+their $KEEP
+farm $KEEP
+, $KEEP
+that $KEEP
+
+had $KEEP
+a $KEEP
+weird $KEEP
+painting $KEEP
+of $KEEP
+two $KEEP
+sisters $KEEP
+just $KEEP
+like $KEEP
+her $TRANSFORM_AGREEMENT_PLURAL
+'s $DELETE
+, $APPEND_and
+the $KEEP
+same $KEEP
+ones $KEEP
+also $REPLACE_too
+of $REPLACE_as
+the $KEEP
+
+story $KEEP
+she $KEEP
+read $KEEP
+. $KEEP
+

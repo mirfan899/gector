@@ -82,8 +82,7 @@ even $KEEP
 longer $KEEP
 . $KEEP
 
-We @@UNKNOWN@@
-We $APPEND_and$KEEP
+We $KEEP
 're $KEEP
 looking $KEEP
 for $KEEP
@@ -102,7 +101,6 @@ keep $TRANSFORM_VERB_VB_VBG
 your $KEEP
 place $KEEP
 tide @@UNKNOWN@@
-tide $REPLACE_tidy
 and $KEEP
 take $TRANSFORM_VERB_VB_VBG
 care $KEEP
@@ -124,7 +122,6 @@ could $KEEP
 get $KEEP
 the $DELETE
 recommendations @@UNKNOWN@@
-recommendations $REPLACE_references
 from $KEEP
 our $KEEP
 previous $KEEP
@@ -621,7 +618,6 @@ which $KEEP
 Van $REPLACE_is
 as $REPLACE_the
 well @@UNKNOWN@@
-well $REPLACE_van
 as $REPLACE_and
 very $KEEP
 distracted $KEEP
@@ -823,7 +819,6 @@ fuel $KEEP
 as $KEEP
 well $KEEP
 as @@UNKNOWN@@
-as $APPEND_reduce
 pollution $APPEND_,
 but $KEEP
 it $KEEP
@@ -1174,7 +1169,6 @@ Trees $KEEP
 in $KEEP
 the $KEEP
 parts @@UNKNOWN@@
-parts $REPLACE_parks
 are $KEEP
 not $KEEP
 sufficient $KEEP
@@ -1480,7 +1474,6 @@ listen $REPLACE_hear
 many $KEEP
 wear $REPLACE_weird
 sounds @@UNKNOWN@@
-sounds $REPLACE_noises
 and $KEEP
 her $KEEP
 sons $KEEP
@@ -1530,7 +1523,6 @@ bedroom $KEEP
 and $KEEP
 the $KEEP
 courtins @@UNKNOWN@@
-courtins $REPLACE_curtains
 was $REPLACE_were
 not $KEEP
 there $APPEND_.
@@ -1544,7 +1536,6 @@ room $KEEP
 and $KEEP
 the $KEEP
 courtins @@UNKNOWN@@
-courtins $REPLACE_curtains
 also $KEEP
 were $KEEP
 not $KEEP
@@ -1612,12 +1603,10 @@ discover $KEEP
 that $KEEP
 the $KEEP
 ghost @@UNKNOWN@@
-ghost $REPLACE_servants
 were $KEEP
 not $KEEP
 the $KEEP
 servants @@UNKNOWN@@
-servants $REPLACE_ghosts
 . $KEEP
 
 Of $KEEP
@@ -1713,7 +1702,6 @@ and $KEEP
 because $APPEND_of
 journalists $APPEND_,
 papparazzi @@UNKNOWN@@
-papparazzi $REPLACE_paparazzi
 can $KEEP
 not $KEEP
 have $KEEP
@@ -1889,14 +1877,12 @@ guy $APPEND_,
 about $KEEP
 175 $KEEP
 c.m @@UNKNOWN@@
-c.m $REPLACE_cm
 and $KEEP
 his $KEEP
 Weight $TRANSFORM_CASE_LOWER
 is $KEEP
 71 $KEEP
 k.g @@UNKNOWN@@
-k.g $REPLACE_kg
 and $APPEND_he
 has $KEEP
 a $KEEP
@@ -1915,13 +1901,11 @@ swimming $KEEP
 .He $REPLACE_.
 is $REPLACE_He
 a @@UNKNOWN@@
-a $REPLACE_wears
 casual $KEEP
 clothes $KEEP
 wearing $REPLACE_,
 such $APPEND_as
 Shirt @@UNKNOWN@@
-Shirt $REPLACE_shirts
 and $KEEP
 jeans $APPEND_,
 which $APPEND_are
@@ -1938,7 +1922,6 @@ him $APPEND_,
 you $KEEP
 notice $KEEP
 how @@UNKNOWN@@
-how $APPEND_elegant
 he $KEEP
 is $KEEP
 an $DELETE
@@ -1997,7 +1980,6 @@ the $KEEP
 talent $KEEP
 to $KEEP
 Convinces @@UNKNOWN@@
-Convinces $REPLACE_convince
 
 thought $DELETE
 . $KEEP
@@ -2076,7 +2058,6 @@ eman $TRANSFORM_CASE_CAPITAL
 
 My $KEEP
 second @@UNKNOWN@@
-second $APPEND_oldest
 sister $KEEP
 is $KEEP
 34 $KEEP
@@ -2174,7 +2155,6 @@ with $KEEP
 family $KEEP
 is $REPLACE_was
 baseless @@UNKNOWN@@
-baseless $REPLACE_pointless
 but $REPLACE_,
 after $KEEP
 my $KEEP
@@ -2403,7 +2383,6 @@ zoo $KEEP
 can $KEEP
 protected $TRANSFORM_VERB_VBN_VB
 endagered @@UNKNOWN@@
-endagered $REPLACE_endangered
 spices $REPLACE_species
 against $REPLACE_from
 illegal $KEEP
@@ -2646,7 +2625,6 @@ to $KEEP
 use $REPLACE_deal
 their $KEEP
 rubbish.people @@UNKNOWN@@
-rubbish.people $REPLACE_rubbish
 throw $KEEP
 their $KEEP
 rubbish $KEEP
@@ -2902,7 +2880,6 @@ great $KEEP
 care $KEEP
 in $KEEP
 selection @@UNKNOWN@@
-selection $REPLACE_selecting
 the $KEEP
 best $KEEP
 quality $KEEP
@@ -2928,7 +2905,6 @@ until $KEEP
 the $KEEP
 dish $KEEP
 is @@UNKNOWN@@
-is $APPEND_ready
 done $REPLACE_.
 while $TRANSFORM_CASE_CAPITAL
 clients $KEEP
@@ -3153,7 +3129,6 @@ years $KEEP
 old $TRANSFORM_AGREEMENT_PLURAL
 only $KEEP
 has @@UNKNOWN@@
-has $REPLACE_20%
 20%people $REPLACE_people
 are $REPLACE_selected
 taken $REPLACE_it
@@ -3252,7 +3227,6 @@ niy $DELETE
 yhe $REPLACE_the
 most $DELETE
 lower @@UNKNOWN@@
-lower $REPLACE_lowerst
 is $KEEP
 35% $APPEND_and
 age $KEEP
@@ -3419,7 +3393,6 @@ say $KEEP
 that $KEEP
 to $KEEP
 delete @@UNKNOWN@@
-delete $REPLACE_cancelling
 the $KEEP
 field $KEEP
 trips $KEEP
@@ -3587,7 +3560,6 @@ the $KEEP
 loveliest $KEEP
 of $KEEP
 others @@UNKNOWN@@
-others $REPLACE_rivers
 . $KEEP
 
 It $KEEP
@@ -3709,7 +3681,6 @@ I $KEEP
 lived $KEEP
 in $KEEP
 a @@UNKNOWN@@
-a $APPEND_hall
 residence $KEEP
 for $KEEP
 two $KEEP
@@ -3728,7 +3699,6 @@ flat $KEEP
 
 My $KEEP
 flatmatter @@UNKNOWN@@
-flatmatter $REPLACE_flatmate
 is $KEEP
 my $KEEP
 best $KEEP
@@ -4029,7 +3999,6 @@ When $KEEP
 he $KEEP
 was $KEEP
 scaping @@UNKNOWN@@
-scaping $REPLACE_escaping
 from $KEEP
 the $KEEP
 prison $KEEP
@@ -4183,7 +4152,6 @@ motifs $KEEP
 Rest $DELETE
 ... $DELETE
 aurant @@UNKNOWN@@
-aurant $REPLACE_Restaurant
 . $KEEP
 
 There $KEEP
@@ -4321,7 +4289,6 @@ kept $KEEP
 all $KEEP
 his $KEEP
 feelings @@UNKNOWN@@
-feelings $APPEND_hidden
 for $KEEP
 a $KEEP
 long $KEEP
@@ -4499,7 +4466,6 @@ girl $KEEP
 is $REPLACE_was
 an $KEEP
 acquantance @@UNKNOWN@@
-acquantance $REPLACE_acquaintance
 him $REPLACE_his
 . $KEEP
 
@@ -4589,7 +4555,6 @@ in $KEEP
 this $KEEP
 Chinese $KEEP
 New @@UNKNOWN@@
-New $APPEND_Year
 Year!Because $REPLACE_because
 Norovirus $KEEP
 infected $KEEP
@@ -4678,7 +4643,6 @@ Formosan $KEEP
 Aboriginal $KEEP
 Culture $KEEP
 Village(九族)to @@UNKNOWN@@
-Village(九族)to $REPLACE_Village(九族
 visited $TRANSFORM_VERB_VBN_VB
 its $KEEP
 blooming $KEEP
@@ -4692,7 +4656,6 @@ variety~Is $REPLACE_variety
 it $KEEP
 from $KEEP
 Japan??XD)Cherry @@UNKNOWN@@
-Japan??XD)Cherry $REPLACE_Japan??XD
 blossom $KEEP
 is $REPLACE_was
 very $KEEP
@@ -4940,7 +4903,6 @@ are $KEEP
 many $KEEP
 colorful $KEEP
 Pillows @@UNKNOWN@@
-Pillows $REPLACE_cushions
 
 There $KEEP
 is $KEEP
@@ -5419,7 +5381,6 @@ more $REPLACE_lot
 ancient $KEEP
 and $KEEP
 mistyc @@UNKNOWN@@
-mistyc $REPLACE_mystical
 places $KEEP
 . $KEEP
 
@@ -5548,9 +5509,7 @@ such $KEEP
 as $KEEP
 : $KEEP
 " @@UNKNOWN@@
-" $APPEND_Passage
 Passage",Europe","Scorpion".Last @@UNKNOWN@@
-Passage",Europe","Scorpion".Last $REPLACE_Scorpion
 weekends $TRANSFORM_VERB_VBZ_VB
 we $KEEP
 visited $KEEP
@@ -6105,7 +6064,6 @@ The $KEEP
 town $KEEP
 hall $KEEP
 put @@UNKNOWN@@
-put $APPEND_containers
 in $KEEP
 the $KEEP
 streets $KEEP
@@ -6294,7 +6252,6 @@ computer $KEEP
 These $KEEP
 were $KEEP
 experiential @@UNKNOWN@@
-experiential $REPLACE_experimental
 models $KEEP
 . $KEEP
 
@@ -6406,7 +6363,6 @@ see $KEEP
 the $KEEP
 world $KEEP
 , @@UNKNOWN@@
-, $APPEND_evolution
 comes $KEEP
 into $KEEP
 play $KEEP
@@ -6551,7 +6507,6 @@ only $KEEP
 with $KEEP
 my $KEEP
 close @@UNKNOWN@@
-close $APPEND_relatives
 people $REPLACE_and
 . $KEEP
 
@@ -6572,7 +6527,6 @@ robots $KEEP
 , $REPLACE_.
 everyone $TRANSFORM_CASE_CAPITAL
 deservs @@UNKNOWN@@
-deservs $REPLACE_deserves
 that $REPLACE_what
 they $KEEP
 want $KEEP
@@ -6588,7 +6542,6 @@ them $REPLACE_the
 of $REPLACE_one
 this $KEEP
 composition @@UNKNOWN@@
-composition $APPEND_title
 . $KEEP
 
 I $KEEP
@@ -7001,7 +6954,6 @@ day $KEEP
 According $APPEND_to
 the $KEEP
 inquest @@UNKNOWN@@
-inquest $REPLACE_enquiry
 , $KEEP
 a $KEEP
 representative $KEEP
@@ -7360,7 +7312,6 @@ three $REPLACE_third
 in $KEEP
 the $KEEP
 comtest @@UNKNOWN@@
-comtest $REPLACE_contest
 . $KEEP
 
 Through $KEEP
@@ -7622,7 +7573,6 @@ them $KEEP
 a $KEEP
 healthy $KEEP
 education @@UNKNOWN@@
-education $REPLACE_upbringing
 . $KEEP
 
 To $KEEP
@@ -7690,7 +7640,6 @@ wanted $KEEP
 to $KEEP
 be $APPEND_self
 selfemployed @@UNKNOWN@@
-selfemployed $REPLACE_employed
 . $KEEP
 
 My $KEEP
@@ -8490,7 +8439,6 @@ how $KEEP
 the $KEEP
 audience $KEEP
 applaused @@UNKNOWN@@
-applaused $REPLACE_applauds
 them $KEEP
 every $KEEP
 time $KEEP
@@ -8565,7 +8513,6 @@ yelled $TRANSFORM_VERB_VBN_VB
 at $KEEP
 the $KEEP
 jumpire @@UNKNOWN@@
-jumpire $REPLACE_umpire
 for $KEEP
 a $DELETE
 no $KEEP
@@ -8715,7 +8662,6 @@ is $KEEP
 and $REPLACE_an
 old $APPEND_-
 faschion @@UNKNOWN@@
-faschion $REPLACE_fashioned
 way $KEEP
 but $KEEP
 still $KEEP
@@ -8723,7 +8669,6 @@ interesting $KEEP
 . $KEEP
 
 Público @@UNKNOWN@@
-Público $REPLACE_Public
 transportation $KEEP
 is $KEEP
 excellent $KEEP
@@ -8807,7 +8752,6 @@ was $KEEP
 champion $KEEP
 on $REPLACE_in
 2009.In @@UNKNOWN@@
-2009.In $REPLACE_2009
 2009 $KEEP
 Flamengo $KEEP
 has $REPLACE_had
@@ -8850,7 +8794,6 @@ head $KEEP
 aches $KEEP
 , $APPEND_it
 still @@UNKNOWN@@
-still $APPEND_spinning
 slightly $KEEP
 spinning $DELETE
 and $KEEP
@@ -9035,7 +8978,6 @@ when $KEEP
 I $KEEP
 get $KEEP
 nervous @@UNKNOWN@@
-nervous $REPLACE_agitated
 ! $KEEP
 
 She $KEEP
@@ -9063,7 +9005,6 @@ never $KEEP
 been $KEEP
 a $KEEP
 talktive @@UNKNOWN@@
-talktive $REPLACE_talkative
 girl $KEEP
 , $KEEP
 so $KEEP
@@ -9172,7 +9113,6 @@ has $KEEP
 a $KEEP
 lot $KEEP
 of @@UNKNOWN@@
-of $APPEND_attractions
 scenery $KEEP
 , $KEEP
 such $KEEP
@@ -9182,7 +9122,6 @@ great $KEEP
 beach $TRANSFORM_VERB_VB_VBZ
 besides $TRANSFORM_AGREEMENT_SINGULAR
 a @@UNKNOWN@@
-a $REPLACE_rows
 row $REPLACE_of
 tree $TRANSFORM_VERB_VB_VBZ
 , $KEEP
@@ -9225,7 +9164,6 @@ by $APPEND_the
 town $KEEP
 's $KEEP
 civil @@UNKNOWN@@
-civil $REPLACE_inhabitants
 , $APPEND_the
 authorities $KEEP
 must $KEEP
@@ -9358,7 +9296,6 @@ sandals $KEEP
 a $KEEP
 light $DELETE
 weight @@UNKNOWN@@
-weight $REPLACE_lighweight
 vest $KEEP
 and $KEEP
 sunglasses $KEEP
@@ -9846,7 +9783,6 @@ reasons $KEEP
 it $KEEP
 is $KEEP
 unlikly @@UNKNOWN@@
-unlikly $REPLACE_unlikely
 there $KEEP
 is $KEEP
 no $KEEP
@@ -10000,7 +9936,6 @@ her $KEEP
 husband $KEEP
 's $KEEP
 car @@UNKNOWN@@
-car $APPEND_keys
 were $KEEP
 in $KEEP
 her $KEEP
@@ -10359,7 +10294,6 @@ and $KEEP
 if $KEEP
 it $KEEP
 desapear @@UNKNOWN@@
-desapear $REPLACE_disappears
 it $KEEP
 will $KEEP
 be $KEEP
@@ -10484,7 +10418,6 @@ expensive $KEEP
 due $KEEP
 their $REPLACE_the
 taxes @@UNKNOWN@@
-taxes $REPLACE_fares
 
 I $KEEP
 'm $KEEP
@@ -10741,7 +10674,6 @@ in $KEEP
 the $KEEP
 first $KEEP
 divission @@UNKNOWN@@
-divission $REPLACE_division
 of $KEEP
 the $KEEP
 club $KEEP
@@ -10958,7 +10890,6 @@ Islam $APPEND_?
 What $KEEP
 are $KEEP
 your @@UNKNOWN@@
-your $APPEND_media
 sources $KEEP
 media $DELETE
 or $KEEP
@@ -11079,11 +11010,9 @@ expensive $KEEP
 , $KEEP
 more $KEEP
 trustworthy @@UNKNOWN@@
-trustworthy $REPLACE_reliable
 and $KEEP
 even $KEEP
 more @@UNKNOWN@@
-more $APPEND_environmentally
 ecological $REPLACE_friendly
 than $KEEP
 travelling $KEEP
@@ -11167,7 +11096,6 @@ to $DELETE
 be $KEEP
 a $DELETE
 new @@UNKNOWN@@
-new $APPEND_environmentally
 ecological $REPLACE_friendly
 and $KEEP
 cheaper $KEEP
@@ -11303,7 +11231,6 @@ fuel $APPEND_,
 what $REPLACE_which
 is $KEEP
 affected @@UNKNOWN@@
-affected $REPLACE_implicated
 in $KEEP
 emissions $KEEP
 . $KEEP
@@ -11316,7 +11243,6 @@ improve $KEEP
 our $KEEP
 regulations $KEEP
 that @@UNKNOWN@@
-that $APPEND_impose
 rules $KEEP
 impose $REPLACE_on
 people $KEEP
@@ -11863,7 +11789,6 @@ generations $KEEP
 Besides $REPLACE_In
 public $KEEP
 institucions @@UNKNOWN@@
-institucions $REPLACE_institutions
 are $KEEP
 promoting $KEEP
 this $KEEP
@@ -11953,7 +11878,6 @@ solutions $APPEND_,
 such $KEEP
 a $KEEP
 metropolitan @@UNKNOWN@@
-metropolitan $REPLACE_metro
 . $KEEP
 
 I $KEEP
@@ -12085,7 +12009,6 @@ a $KEEP
 lot $KEEP
 of $KEEP
 smoke @@UNKNOWN@@
-smoke $REPLACE_fumes
 and $KEEP
 the $KEEP
 nature $REPLACE_natural
@@ -12209,7 +12132,6 @@ of $KEEP
 the $KEEP
 UN $KEEP
 Chart @@UNKNOWN@@
-Chart $REPLACE_Charter
 and $KEEP
 international $KEEP
 law $KEEP
@@ -12305,7 +12227,6 @@ a $KEEP
 mechanism $KEEP
 in $KEEP
 collaboratedly @@UNKNOWN@@
-collaboratedly $REPLACE_collaboratively
 exploring $KEEP
 and $KEEP
 developing $KEEP
@@ -12374,7 +12295,6 @@ could $KEEP
 fly $KEEP
 like $APPEND_a
 adragon @@UNKNOWN@@
-adragon $REPLACE_dragon
 . $KEEP
 
 Luckily $KEEP
@@ -12395,7 +12315,6 @@ it $KEEP
 As $KEEP
 he $KEEP
 pumped @@UNKNOWN@@
-pumped $REPLACE_jumped
 down $KEEP
 the $KEEP
 stairs $KEEP
@@ -12593,7 +12512,6 @@ which $KEEP
 they $DELETE
 have $KEEP
 scenery @@UNKNOWN@@
-scenery $REPLACE_scenic
 view $TRANSFORM_VERB_VB_VBZ
 . $KEEP
 
@@ -12656,7 +12574,6 @@ a $DELETE
 wildlife $KEEP
 without $APPEND_your
 needs @@UNKNOWN@@
-needs $REPLACE_needing
 to $KEEP
 go $KEEP
 out $KEEP
@@ -12802,7 +12719,6 @@ purpose $KEEP
 of $KEEP
 this $KEEP
 propossal @@UNKNOWN@@
-propossal $REPLACE_proposal
 is $KEEP
 to $KEEP
 provide $KEEP
@@ -12840,7 +12756,6 @@ back $KEEP
 to $KEEP
 the $KEEP
 18 @@UNKNOWN@@
-18 $REPLACE_18th
 century $KEEP
 when $KEEP
 Vungtau $KEEP
@@ -12973,7 +12888,6 @@ there $KEEP
 should $DELETE
 be $DELETE
 satisying @@UNKNOWN@@
-satisying $REPLACE_satisfying
 your $KEEP
 needs $KEEP
 . $KEEP
@@ -13226,7 +13140,6 @@ is $KEEP
 a $KEEP
 grass $KEEP
 floor @@UNKNOWN@@
-floor $REPLACE_surface
 , $KEEP
 but $KEEP
 it $KEEP
@@ -13410,7 +13323,6 @@ with $REPLACE_from
 noises $TRANSFORM_VERB_VBZ_VB
 and $KEEP
 smoke @@UNKNOWN@@
-smoke $REPLACE_exhaust
 . $KEEP
 
 A $KEEP
@@ -13422,7 +13334,6 @@ in $KEEP
 the $KEEP
 small $KEEP
 cities @@UNKNOWN@@
-cities $REPLACE_towns
 , $KEEP
 because $KEEP
 they $KEEP
@@ -13431,7 +13342,6 @@ not $KEEP
 disigned $REPLACE_designed
 to $KEEP
 harbor @@UNKNOWN@@
-harbor $REPLACE_accommodate
 a $KEEP
 lot $KEEP
 of $KEEP
@@ -13451,19 +13361,16 @@ transport $KEEP
 is $KEEP
 the $KEEP
 infrastructure @@UNKNOWN@@
-infrastructure $REPLACE_communications
 between $KEEP
 villages $KEEP
 and $KEEP
 small $KEEP
 cities @@UNKNOWN@@
-cities $REPLACE_towns
 , $KEEP
 because $KEEP
 they $KEEP
 only $KEEP
 exit @@UNKNOWN@@
-exit $REPLACE_exists
 between $KEEP
 the $KEEP
 great $REPLACE_big
@@ -13864,7 +13771,6 @@ that $KEEP
 Thirteen $REPLACE_the
 number $KEEP
 that @@UNKNOWN@@
-that $REPLACE_thirteen
 brings $KEEP
 bad $KEEP
 luck $KEEP
@@ -13920,7 +13826,6 @@ example $KEEP
 , $KEEP
 Animal $KEEP
 Plante @@UNKNOWN@@
-Plante $REPLACE_Planet
 can $KEEP
 help $KEEP
 you $KEEP
@@ -13929,7 +13834,6 @@ biology $KEEP
 , $REPLACE_.
 The $KEEP
 History @@UNKNOWN@@
-History $APPEND_Channel
 can $KEEP
 help $KEEP
 in $KEEP
@@ -14102,7 +14006,6 @@ response $KEEP
 to $KEEP
 your $KEEP
 adversiment @@UNKNOWN@@
-adversiment $REPLACE_advertisment
 SUMMER $KEEP
 CAMPS $KEEP
 . $KEEP
@@ -14335,7 +14238,6 @@ survive $KEEP
 in $KEEP
 this $KEEP
 madness @@UNKNOWN@@
-madness $REPLACE_mad
 world $KEEP
 ? $KEEP
 
@@ -14640,7 +14542,6 @@ Lecce $KEEP
 . $KEEP
 
 Find @@UNKNOWN@@
-Find $REPLACE_Finding
 a $KEEP
 job $KEEP
 in $KEEP
@@ -14739,7 +14640,6 @@ sent $KEEP
 me $KEEP
 your $KEEP
 curriculum @@UNKNOWN@@
-curriculum $REPLACE_CV
 after $KEEP
 the $KEEP
 weekend $KEEP
@@ -14971,7 +14871,6 @@ next $KEEP
 . $KEEP
 
 In @@UNKNOWN@@
-In $REPLACE_Around
 the $KEEP
 global $REPLACE_world
 , $KEEP
@@ -15186,7 +15085,6 @@ the $KEEP
 main $KEEP
 one $KEEP
 haven't @@UNKNOWN@@
-haven't $REPLACE_hasn't
 started $KEEP
 yet $APPEND_,
 and $KEEP
@@ -15235,7 +15133,6 @@ foundation $KEEP
 of $KEEP
 environment $REPLACE_environmental
 care @@UNKNOWN@@
-care $REPLACE_protection
 is $KEEP
 our $KEEP
 minset $REPLACE_mindset
@@ -15322,7 +15219,6 @@ dreams $KEEP
 
 this $TRANSFORM_CASE_CAPITAL
 aphirism @@UNKNOWN@@
-aphirism $REPLACE_aphorism
 is $KEEP
 famous $KEEP
 and $KEEP
@@ -15505,7 +15401,6 @@ big $KEEP
 problem $KEEP
 and $KEEP
 that @@UNKNOWN@@
-that $APPEND_measures
 must $KEEP
 be $KEEP
 taken $KEEP
@@ -15598,7 +15493,6 @@ we $KEEP
 should $KEEP
 take $REPLACE_be
 conciencious @@UNKNOWN@@
-conciencious $REPLACE_conscientious
 and $KEEP
 stop $KEEP
 it $KEEP
@@ -15633,7 +15527,6 @@ we $KEEP
 argue $DELETE
 hardly $KEEP
 ever @@UNKNOWN@@
-ever $APPEND_argue
 ! $KEEP
 
 I $KEEP
@@ -15735,7 +15628,6 @@ eat $KEEP
 in $REPLACE_on
 the $KEEP
 sofà @@UNKNOWN@@
-sofà $REPLACE_sofa
 .. $APPEND_.
 
 I $KEEP
@@ -15743,7 +15635,6 @@ always $KEEP
 try $KEEP
 to $KEEP
 follow @@UNKNOWN@@
-follow $REPLACE_obey
 rules $APPEND_,
 but $KEEP
 I $KEEP
@@ -15912,7 +15803,6 @@ include $REPLACE_well
 the $KEEP
 five $KEEP
 prays @@UNKNOWN@@
-prays $REPLACE_prayer
 breaks $APPEND_,
 because $KEEP
 we $KEEP
@@ -16109,7 +15999,6 @@ place $KEEP
 let $TRANSFORM_CASE_CAPITAL
 us $KEEP
 discover @@UNKNOWN@@
-discover $REPLACE_examine
 the $KEEP
 aventadges $REPLACE_advantages
 and $KEEP
@@ -16156,7 +16045,6 @@ man $KEEP
 had $KEEP
 broke $DELETE
 a @@UNKNOWN@@
-a $APPEND_broken
 leg $KEEP
 , $KEEP
 it $KEEP
@@ -16663,7 +16551,6 @@ them $KEEP
 to $KEEP
 be $KEEP
 inmune @@UNKNOWN@@
-inmune $REPLACE_immune
 if $KEEP
 some $KEEP
 sick $KEEP
@@ -16943,7 +16830,6 @@ of $KEEP
 children $APPEND_does
 not $KEEP
 afraid @@UNKNOWN@@
-afraid $REPLACE_frighten
 me $KEEP
 . $KEEP
 
@@ -17371,7 +17257,6 @@ ligament $KEEP
 injuries $KEEP
 , $DELETE
 The @@UNKNOWN@@
-The $REPLACE_.The
 most $KEEP
 frequent $KEEP
 mechanism $REPLACE_cause
@@ -17427,7 +17312,6 @@ of $KEEP
 our $KEEP
 surgical $KEEP
 findings.my @@UNKNOWN@@
-findings.my $REPLACE_findings
 advice $KEEP
 for $APPEND_someone
 who $APPEND_is
@@ -17691,7 +17575,6 @@ life $KEEP
 it $TRANSFORM_CASE_CAPITAL
 is $KEEP
 upstearm @@UNKNOWN@@
-upstearm $REPLACE_upstream
 that $KEEP
 irrigates $KEEP
 our $KEEP
@@ -17797,7 +17680,6 @@ lern $REPLACE_teach
 children $KEEP
 that $KEEP
 clean @@UNKNOWN@@
-clean $REPLACE_cleanliness
 is $KEEP
 necessary $KEEP
 for $KEEP
@@ -17868,7 +17750,6 @@ life $KEEP
 . $KEEP
 
 Setting @@UNKNOWN@@
-Setting $REPLACE_Building
 up $DELETE
 more $KEEP
 large $KEEP
@@ -17885,7 +17766,6 @@ some $KEEP
 animals $KEEP
 maybecan $REPLACE_may
 extinction @@UNKNOWN@@
-extinction $REPLACE_extinct
 . $KEEP
 
 Governments $KEEP
@@ -17965,7 +17845,6 @@ be $KEEP
 a $KEEP
 huge $KEEP
 traffic @@UNKNOWN@@
-traffic $APPEND_jam
 , $KEEP
 so $KEEP
 travelling $KEEP
@@ -18124,7 +18003,6 @@ glad $KEEP
 to $KEEP
 win $KEEP
 a @@UNKNOWN@@
-a $APPEND_championship
 cup $KEEP
 of $DELETE
 championship $DELETE
@@ -18156,7 +18034,6 @@ be $KEEP
 afraid $KEEP
 of $KEEP
 hockey!You @@UNKNOWN@@
-hockey!You $REPLACE_hockey
 used $KEEP
 to $KEEP
 sit $TRANSFORM_VERB_VB_VBG
@@ -18177,7 +18054,6 @@ go $KEEP
 to $KEEP
 the $KEEP
 hockeyclub @@UNKNOWN@@
-hockeyclub $REPLACE_hockey
 . $KEEP
 
 Hello $KEEP
@@ -18396,7 +18272,6 @@ I $KEEP
 have $KEEP
 some $KEEP
 intellent @@UNKNOWN@@
-intellent $REPLACE_talent
 on $REPLACE_for
 swimming $KEEP
 . $KEEP
@@ -18974,7 +18849,6 @@ particularly $KEEP
 in $KEEP
 the $KEEP
 food @@UNKNOWN@@
-food $APPEND_sector
 . $KEEP
 
 I $APPEND_have
@@ -19135,7 +19009,6 @@ my $KEEP
 house $KEEP
 at $KEEP
 12:00.My @@UNKNOWN@@
-12:00.My $REPLACE_12:00
 husband $KEEP
 invited $KEEP
 you $KEEP
@@ -19213,7 +19086,6 @@ other $KEEP
 subjects $DELETE
 more $KEEP
 important @@UNKNOWN@@
-important $APPEND_subjects
 than $KEEP
 Physical $KEEP
 Education $KEEP

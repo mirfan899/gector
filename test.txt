@@ -1,5 +1,4 @@
 so $TRANSFORM_CASE_CAPITAL
-, $APPEND_,
 have $KEEP
 you $KEEP
 ever $KEEP
@@ -36,7 +35,6 @@ new $KEEP
 music $KEEP
 . $KEEP
 
-From $KEEP
 1966 $KEEP
 - $KEEP
 1967 $KEEP
@@ -49,7 +47,6 @@ place $KEEP
 
 The $KEEP
 3 $APPEND_types
-of $APPEND_of
 musics $TRANSFORM_AGREEMENT_SINGULAR
 were $KEEP
 even $KEEP
@@ -79,7 +76,6 @@ songs $KEEP
 And $KEEP
 after $KEEP
 this $REPLACE_that
-, $APPEND_,
 everybody $KEEP
 started $KEEP
 to $KEEP
@@ -115,7 +111,7 @@ so $KEEP
 changed $DELETE
 the $KEEP
 old $KEEP
-music $APPEND_changed
+music @@UNKNOWN@@
 to $KEEP
 the $KEEP
 new $KEEP
@@ -218,7 +214,6 @@ radiators $KEEP
 I $KEEP
 think $KEEP
 cutting $APPEND_down
-the $APPEND_the
 trees $KEEP
 which $APPEND_are
 around $KEEP
@@ -274,7 +269,6 @@ over $KEEP
 other $KEEP
 makes $REPLACE_leads
 a $REPLACE_to
-the $APPEND_the
 huge $KEEP
 production $KEEP
 of $KEEP
@@ -316,7 +310,7 @@ replaces $KEEP
 human $KEEP
 labor $KEEP
 into $REPLACE_with
-instrument $REPLACE_tools
+instrument @@UNKNOWN@@
 , $KEEP
 but $KEEP
 what $KEEP
@@ -423,12 +417,10 @@ source $TRANSFORM_AGREEMENT_PLURAL
 
 But $KEEP
 living $APPEND_in
-the $APPEND_the
 21st $KEEP
 centaury $REPLACE_century
 , $KEEP
 its $TRANSFORM_AGREEMENT_SINGULAR
-'s $APPEND_'s
 difficult $KEEP
 to $KEEP
 blame $KEEP
@@ -442,7 +434,6 @@ its $KEEP
 technological $KEEP
 applications $KEEP
 on $REPLACE_in
-our $APPEND_our
 everyday $KEEP
 our $DELETE
 life $KEEP
@@ -528,7 +519,7 @@ a $KEEP
 tree $KEEP
 , $APPEND_it
 is $KEEP
-immediately $APPEND_replaced
+immediately @@UNKNOWN@@
 put $REPLACE_with
 a $KEEP
 young $KEEP
@@ -608,7 +599,6 @@ Travelling $KEEP
 by $DELETE
 using $KEEP
 any $APPEND_form
-of $APPEND_of
 transport $KEEP
 has $KEEP
 become $KEEP
@@ -644,7 +634,7 @@ modern $KEEP
 car $TRANSFORM_AGREEMENT_PLURAL
 at $KEEP
 the $KEEP
-agency $REPLACE_dealership
+agency @@UNKNOWN@@
 . $KEEP
 
 The $KEEP
@@ -689,7 +679,7 @@ be $KEEP
 unsafe $KEEP
 for $KEEP
 the $DELETE
-users $REPLACE_passengers
+users @@UNKNOWN@@
 . $KEEP
 
 another $TRANSFORM_CASE_CAPITAL
@@ -718,9 +708,7 @@ diseappear $REPLACE_disappear
 . $KEEP
 
 I $KEEP
-consider $APPEND_buying
-a $APPEND_a
-car $APPEND_car
+consider @@UNKNOWN@@
 the $KEEP
 best $KEEP
 option $KEEP
@@ -760,11 +748,10 @@ exercise $KEEP
 then $KEEP
 to $DELETE
 compete $TRANSFORM_VERB_VB_VBG
-in $APPEND_in
 sports $KEEP
 will $KEEP
 make $REPLACE_encourage
-competitior $REPLACE_competitors
+competitior @@UNKNOWN@@
 to $KEEP
 make $KEEP
 an $KEEP
@@ -808,7 +795,6 @@ Young $KEEP
 children $KEEP
 try $KEEP
 to $APPEND_make
-an $APPEND_an
 effort $KEEP
 , $KEEP
 and $KEEP
@@ -823,7 +809,6 @@ and $KEEP
 if $KEEP
 they $KEEP
 train $APPEND_,
-the $APPEND_the
 results $KEEP
 were $REPLACE_are
 better $KEEP
@@ -881,8 +866,6 @@ if $KEEP
 you $KEEP
 competes $TRANSFORM_VERB_VBZ_VB
 doing $REPLACE_in
-or $APPEND_or
-do $APPEND_do
 sports $KEEP
 . $KEEP
 
@@ -896,9 +879,8 @@ clear $KEEP
 disadvantage $KEEP
 of $KEEP
 compete $TRANSFORM_VERB_VB_VBG
-, $APPEND_,
 because $KEEP
-competitiors $REPLACE_competitors
+competitiors @@UNKNOWN@@
 are $KEEP
 trying $KEEP
 to $KEEP
@@ -924,7 +906,6 @@ take $KEEP
 it $KEEP
 more $KEEP
 simply $REPLACE_easy
-. $APPEND_.
 
 Finally $KEEP
 , $KEEP
@@ -953,7 +934,6 @@ that $KEEP
 help $KEEP
 you $KEEP
 to $REPLACE_in
-your $APPEND_your
 whole $KEEP
 you $DELETE
 life $KEEP
@@ -1027,7 +1007,6 @@ what $KEEP
 are $DELETE
 shopping $KEEP
 facilities $APPEND_there
-are $APPEND_are
 in $KEEP
 our $KEEP
 town $KEEP
@@ -1055,7 +1034,6 @@ small $KEEP
 there $KEEP
 are $KEEP
 many $REPLACE_a
-wide $APPEND_wide
 variations $REPLACE_variety
 of $KEEP
 shops $APPEND_,
@@ -1242,10 +1220,7 @@ have $KEEP
 fun $KEEP
 with $APPEND_a
 party $KEEP
-or $APPEND_dress
-up $APPEND_up
-in $APPEND_in
-a $APPEND_a
+or @@UNKNOWN@@
 costume $KEEP
 yourself $DELETE
 . $KEEP
@@ -1282,12 +1257,12 @@ Second $KEEP
 is $KEEP
 to $KEEP
 prepare $KEEP
-mental $REPLACE_metal
+mental @@UNKNOWN@@
 plates $KEEP
 as $DELETE
 well $REPLACE_using
 as $DELETE
-qulified $REPLACE_qualified
+qulified @@UNKNOWN@@
 machinists $KEEP
 . $KEEP
 
@@ -1344,7 +1319,7 @@ sheet $KEEP
 is $KEEP
 good $KEEP
 or $KEEP
-partialy $REPLACE_partially
+partialy @@UNKNOWN@@
 damaged $KEEP
 , $KEEP
 it $KEEP
@@ -1404,7 +1379,6 @@ argument $KEEP
 in $TRANSFORM_CASE_CAPITAL
 my $KEEP
 topic $REPLACE_essay
-, $APPEND_,
 i $KEEP
 intent $REPLACE_intend
 to $KEEP
@@ -1412,7 +1386,7 @@ discuss $KEEP
 to $DELETE
 contravening $KEEP
 view $DELETE
-piont $REPLACE_viewpoint
+piont @@UNKNOWN@@
 in $KEEP
 more $KEEP
 depth $KEEP
@@ -1435,7 +1409,6 @@ our $KEEP
 live $REPLACE_life
 and $KEEP
 its $TRANSFORM_AGREEMENT_SINGULAR
-'s $APPEND_'s
 more $KEEP
 difficult $KEEP
 to $KEEP
@@ -1500,7 +1473,6 @@ I $KEEP
 hate $KEEP
 a $DELETE
 wait $TRANSFORM_VERB_VB_VBG
-. $APPEND_.
 in $TRANSFORM_CASE_CAPITAL
 my $KEEP
 opinion $APPEND_,
@@ -1533,7 +1505,6 @@ n't $KEEP
 need $REPLACE_want
 to $KEEP
 take $APPEND_a
-long $APPEND_long
 time $APPEND_.
 and $TRANSFORM_CASE_CAPITAL
 The $TRANSFORM_CASE_LOWER
@@ -1541,7 +1512,6 @@ plane $KEEP
 is $KEEP
 the $KEEP
 best $APPEND_way
-of $APPEND_of
 travelling $KEEP
 in $KEEP
 the $KEEP
@@ -1587,7 +1557,6 @@ ca $KEEP
 n't $KEEP
 imagine $KEEP
 it $APPEND_.
-Finally $APPEND_Finally
 , $KEEP
 Eventually $DELETE
 I $KEEP
@@ -1602,7 +1571,6 @@ safe $KEEP
 and $KEEP
 sound $KEEP
 and $APPEND_has
-a $APPEND_a
 safe $KEEP
 journey $KEEP
 . $KEEP
@@ -1703,13 +1671,13 @@ like $KEEP
 Discovery $KEEP
 and $KEEP
 National $KEEP
-Geography $REPLACE_Geographic
+Geography @@UNKNOWN@@
 . $KEEP
 
 Those $KEEP
 channel $TRANSFORM_VERB_VB_VBZ
 always $KEEP
-content $REPLACE_contained
+content @@UNKNOWN@@
 a $KEEP
 lot $KEEP
 of $KEEP
@@ -1844,7 +1812,6 @@ you $KEEP
 can $KEEP
 think $KEEP
 about $APPEND_,
-it $APPEND_it
 just $KEEP
 depend $TRANSFORM_VERB_VB_VBZ
 on $KEEP
@@ -1881,7 +1848,6 @@ a $KEEP
 way $KEEP
 you $KEEP
 wanna $REPLACE_want
-to $APPEND_to
 learn $KEEP
 something $KEEP
 . $KEEP
@@ -1889,7 +1855,6 @@ something $KEEP
 My $KEEP
 studies $KEEP
 in $REPLACE_at
-the $APPEND_the
 tecnologico $TRANSFORM_CASE_CAPITAL
 de $KEEP
 Monterrey $KEEP
@@ -1915,8 +1880,6 @@ to $REPLACE_so
 many $KEEP
 good $KEEP
 things $APPEND_.
-For $APPEND_For
-example $APPEND_example
 , $KEEP
 for $DELETE
 example $DELETE
@@ -1925,7 +1888,7 @@ have $KEEP
 a $KEEP
 lot $KEEP
 of $KEEP
-interchanges $REPLACE_exchanges
+interchanges @@UNKNOWN@@
 all $KEEP
 around $KEEP
 the $KEEP
@@ -1940,7 +1903,6 @@ to $KEEP
 do $KEEP
 an $KEEP
 interchange $REPLACE_exchange
-, $APPEND_,
 you $KEEP
 have $KEEP
 to $KEEP
@@ -2031,7 +1993,7 @@ help $TRANSFORM_VERB_VB_VBZ
 me $KEEP
 to $KEEP
 be $KEEP
-tonic $REPLACE_toned
+tonic @@UNKNOWN@@
 and $KEEP
 satisfied $APPEND_with
 myself $KEEP
@@ -2092,8 +2054,7 @@ I $KEEP
 swam $KEEP
 as $KEEP
 agonistic $REPLACE_a
-competitive $APPEND_competitive
-atlet $REPLACE_athlete
+atlet @@UNKNOWN@@
 . $KEEP
 
 It $KEEP
@@ -2101,7 +2062,7 @@ had $REPLACE_was
 been $DELETE
 a $KEEP
 really $REPLACE_real
-satisfation $REPLACE_satisfaction
+satisfation @@UNKNOWN@@
 and $KEEP
 I $KEEP
 had $REPLACE_was
@@ -2153,7 +2114,7 @@ begin $REPLACE_become
 more $KEEP
 efficient $KEEP
 and $KEEP
-tonic $REPLACE_toned
+tonic @@UNKNOWN@@
 and $KEEP
 you $KEEP
 have $REPLACE_get
@@ -2231,7 +2192,6 @@ can $KEEP
 throw $KEEP
 our $KEEP
 litters $TRANSFORM_VERB_VBZ_VB
-away $APPEND_away
 whenever $REPLACE_wherever
 we $KEEP
 are $KEEP
@@ -2311,7 +2271,6 @@ by $REPLACE_of
 too $KEEP
 much $KEEP
 fastfood $REPLACE_fast
-food $APPEND_food
 and $APPEND_an
 unhealthy $KEEP
 lifestyle $KEEP
@@ -2366,7 +2325,6 @@ scine $REPLACE_notice
 on $KEEP
 the $KEEP
 food $APPEND_can
-force $APPEND_force
 people $KEEP
 entrap $DELETE
 to $KEEP
@@ -2441,9 +2399,6 @@ car $KEEP
 or $KEEP
 the $KEEP
 bus $APPEND_as
-little $APPEND_little
-as $APPEND_as
-possible $APPEND_possible
 and $KEEP
 try $KEEP
 to $KEEP
@@ -2452,7 +2407,6 @@ at $REPLACE_to
 any $KEEP
 place $KEEP
 walking $REPLACE_on
-foot $APPEND_foot
 or $KEEP
 by $KEEP
 bicycle $KEEP
@@ -2463,7 +2417,6 @@ action $KEEP
 would $KEEP
 decrease $KEEP
 the $APPEND_amount
-of $APPEND_of
 gas $KEEP
 emitted $KEEP
 to $REPLACE_into
@@ -2474,8 +2427,7 @@ environment $KEEP
 In $KEEP
 addition $KEEP
 , $KEEP
-the $APPEND_issue
-of $APPEND_of
+the @@UNKNOWN@@
 water $KEEP
 issue $DELETE
 is $KEEP
@@ -2515,13 +2467,11 @@ much $DELETE
 time $REPLACE_long
 but $APPEND_to
 taking $TRANSFORM_VERB_VBG_VB
-a $APPEND_a
 it $REPLACE_shower
 with $KEEP
 a $KEEP
 bucket $KEEP
 and $APPEND_for
-just $APPEND_just
 a $KEEP
 few $KEEP
 minutes $KEEP
@@ -2601,7 +2551,6 @@ not $DELETE
 create $KEEP
 more $KEEP
 rubbish $APPEND_but
-to $APPEND_to
 recycling $TRANSFORM_VERB_VBG_VB
 most $KEEP
 of $KEEP
@@ -2656,7 +2605,6 @@ take $REPLACE_play
 our $KEEP
 part $KEEP
 in $APPEND_dealing
-with $APPEND_with
 this $KEEP
 global $KEEP
 problem $KEEP
@@ -2727,7 +2675,6 @@ ago $KEEP
 and $KEEP
 he $KEEP
 was $APPEND_the
-one $APPEND_one
 who $KEEP
 protected $KEEP
 the $KEEP
@@ -2758,7 +2705,7 @@ The $KEEP
 Writer $KEEP
 helped $KEEP
 to $KEEP
-again $REPLACE_bury
+again @@UNKNOWN@@
 the $KEEP
 crown $KEEP
 bury $REPLACE_again
@@ -2787,11 +2734,9 @@ but $KEEP
 he $KEEP
 listened $REPLACE_heard
 that $APPEND_someone
-was $APPEND_was
 called $TRANSFORM_VERB_VBN_VBG
 him $APPEND_.
 suddenly $TRANSFORM_CASE_CAPITAL
-, $APPEND_,
 he $KEEP
 goes $KEEP
 for $REPLACE_to
@@ -2865,8 +2810,6 @@ be $KEEP
 taken $KEEP
 to $KEEP
 improve $APPEND_the
-quality $APPEND_quality
-of $APPEND_of
 public $KEEP
 transport $KEEP
 quality $DELETE
@@ -2880,7 +2823,6 @@ car $KEEP
 is $KEEP
 pretty $REPLACE_quite
 much $REPLACE_a
-lot $APPEND_lot
 better $KEEP
 than $KEEP
 go $TRANSFORM_VERB_VB_VBG
@@ -2914,8 +2856,6 @@ store $KEEP
 . $KEEP
 
 Everyday $REPLACE_Every
-day $APPEND_day
-, $APPEND_,
 work $KEEP
 stressed $KEEP
 me $KEEP
@@ -3070,7 +3010,7 @@ traffic $REPLACE_there
 it $DELETE
 will $KEEP
 be $KEEP
-less $APPEND_traffic
+less @@UNKNOWN@@
 . $KEEP
 
 When $KEEP
@@ -3100,7 +3040,7 @@ car $KEEP
 it $TRANSFORM_CASE_CAPITAL
 is $KEEP
 very $KEEP
-pollutant $REPLACE_polluting
+pollutant @@UNKNOWN@@
 . $KEEP
 
 I $KEEP
@@ -3123,7 +3063,6 @@ will $KEEP
 be $KEEP
 damaged $KEEP
 and $APPEND_we
-will $APPEND_will
 lose $KEEP
 it $KEEP
 . $KEEP
@@ -3139,15 +3078,11 @@ use $KEEP
 his $APPEND_own
 car $KEEP
 and $APPEND_there
-will $APPEND_will
-be $APPEND_be
 no $KEEP
 need $KEEP
 for $KEEP
 public $KEEP
 transport.this $REPLACE_transport
-. $APPEND_.
-This $APPEND_This
 type $KEEP
 of $KEEP
 transport $KEEP
@@ -3229,7 +3164,7 @@ try $KEEP
 to $KEEP
 fix $KEEP
 the $KEEP
-machine $REPLACE_engines
+machine @@UNKNOWN@@
 of $KEEP
 public $KEEP
 transport $APPEND_,
@@ -3242,22 +3177,18 @@ because $KEEP
 with $KEEP
 time $KEEP
 the $KEEP
-live $REPLACE_lifetime
+live @@UNKNOWN@@
 age $DELETE
 of $KEEP
 this $KEEP
-machine $REPLACE_engine
+machine @@UNKNOWN@@
 will $APPEND_come
-to $APPEND_to
 finish $REPLACE_an
-end $APPEND_end
 . $KEEP
 
 Michael $KEEP
 is $KEEP
-a $APPEND_22-year
-- $APPEND_-
-old $APPEND_old
+a @@UNKNOWN@@
 man $KEEP
 of $DELETE
 22 $DELETE
@@ -3267,18 +3198,16 @@ he $KEEP
 has $KEEP
 studied $KEEP
 the $REPLACE_for
-a $APPEND_a
 career $REPLACE_degree
 of $REPLACE_in
 electricity $REPLACE_electrical
-engenieer $REPLACE_engineering
+engenieer @@UNKNOWN@@
 and $KEEP
 now $KEEP
 he $KEEP
 wants $KEEP
 to $KEEP
 put $APPEND_his
-knowledge $APPEND_knowledge
 into $KEEP
 practice $KEEP
 his $DELETE
@@ -3300,7 +3229,6 @@ job $KEEP
 he $TRANSFORM_CASE_CAPITAL
 was $DELETE
 looking $TRANSFORM_VERB_VBG_VBN
-at $APPEND_at
 all $KEEP
 the $KEEP
 advertisements $KEEP
@@ -3364,9 +3292,8 @@ work $KEEP
 in $KEEP
 a $KEEP
 videogames $REPLACE_video
-games $APPEND_games
 shop $APPEND_,
-so $APPEND_luckily
+so @@UNKNOWN@@
 for $KEEP
 his $REPLACE_him
 good $DELETE
@@ -3394,7 +3321,7 @@ go $TRANSFORM_VERB_VB_VBD
 for $REPLACE_to
 print $APPEND_out
 his $KEEP
-curriculum $REPLACE_CV
+curriculum @@UNKNOWN@@
 because $KEEP
 the $KEEP
 interview $KEEP
@@ -3426,7 +3353,7 @@ his $KEEP
 teeth $KEEP
 , $KEEP
 he $KEEP
-just $APPEND_picked
+just @@UNKNOWN@@
 took $REPLACE_up
 his $KEEP
 mobile $KEEP
@@ -3445,7 +3372,7 @@ was $KEEP
 forgetting $KEEP
 of $DELETE
 his $KEEP
-curriculum $REPLACE_CV
+curriculum @@UNKNOWN@@
 . $KEEP
 
 However $KEEP
@@ -3478,8 +3405,6 @@ is $KEEP
 an $KEEP
 interesting $KEEP
 activity!There $REPLACE_activity
-! $APPEND_!
-There $APPEND_There
 is $APPEND_the
 Fifa $KEEP
 world $TRANSFORM_CASE_CAPITAL
@@ -3511,7 +3436,6 @@ are $KEEP
 soccer $KEEP
 lessons $KEEP
 .I $REPLACE_.
-I $APPEND_I
 have $KEEP
 joined $REPLACE_attended
 the $DELETE
@@ -3680,7 +3604,6 @@ know $KEEP
 how $KEEP
 she $KEEP
 managed $APPEND_it
-, $APPEND_,
 but $KEEP
 she $KEEP
 hurts $TRANSFORM_VERB_VBZ_VBN
@@ -3706,10 +3629,8 @@ has $KEEP
 a $KEEP
 link $DELETE
 blood $KEEP
-therefore $REPLACE_bond
-, $APPEND_,
+therefore @@UNKNOWN@@
 you $REPLACE_so
-we $APPEND_we
 have $KEEP
 a $KEEP
 natural $KEEP
@@ -3751,11 +3672,7 @@ your $KEEP
 best $KEEP
 friends $TRANSFORM_VERB_VBZ_VB
 . $APPEND_As
-you $APPEND_you
-go $APPEND_go
-through $APPEND_through
 Lifelong $REPLACE_life
-, $APPEND_,
 you $KEEP
 will $KEEP
 learn $KEEP
@@ -3809,7 +3726,7 @@ and $KEEP
 is $KEEP
 an $KEEP
 important $KEEP
-cross $REPLACE_crossroads
+cross @@UNKNOWN@@
 ways $DELETE
 between $KEEP
 the $KEEP
@@ -3839,7 +3756,6 @@ an $KEEP
 old $KEEP
 castle $KEEP
 of $REPLACE_from
-the $APPEND_the
 10th $KEEP
 century $KEEP
 and $KEEP
@@ -3852,8 +3768,6 @@ Arabian $KEEP
 It $KEEP
 's $KEEP
 over $REPLACE_on
-top $APPEND_top
-of $APPEND_of
 a $KEEP
 high $REPLACE_big
 hill $KEEP
@@ -3862,7 +3776,6 @@ difficult $KEEP
 slopes $KEEP
 to $KEEP
 arrive $REPLACE_climb
-up $APPEND_up
 because $KEEP
 the $KEEP
 most $KEEP
@@ -3921,13 +3834,11 @@ of $KEEP
 independence $REPLACE_the
 Spanish $KEEP
 war $APPEND_of
-independence $APPEND_independence
 . $KEEP
 
 The $KEEP
 French $KEEP
-army $APPEND_destroyed
-it $APPEND_it
+army @@UNKNOWN@@
 before $KEEP
 came $REPLACE_going
 back $KEEP
@@ -3937,9 +3848,7 @@ destroyed $DELETE
 it $DELETE
 . $KEEP
 
-These $KEEP
 Actually $REPLACE_days
-, $APPEND_,
 the $KEEP
 castle $KEEP
 has $KEEP
@@ -3951,7 +3860,6 @@ a $KEEP
 historic $REPLACE_history
 museum $KEEP
 , $REPLACE_.
-It $APPEND_It
 also $KEEP
 have $REPLACE_has
 a $KEEP
@@ -4045,7 +3953,7 @@ to $KEEP
 converse $KEEP
 . $KEEP
 
-plane $REPLACE_Planes
+plane @@UNKNOWN@@
 , $KEEP
 train $TRANSFORM_VERB_VB_VBZ
 , $KEEP
@@ -4246,9 +4154,7 @@ Have $KEEP
 you $KEEP
 ever $KEEP
 practised $REPLACE_been
-rafting?Do $REPLACE_rafting
-? $APPEND_?
-Do $APPEND_Do
+rafting?Do @@UNKNOWN@@
 you $KEEP
 know $KEEP
 how $KEEP
@@ -4259,8 +4165,6 @@ do $KEEP
 this $KEEP
 cool $KEEP
 sport?If $REPLACE_sport
-? $APPEND_?
-If $APPEND_If
 you $KEEP
 do $KEEP
 n't $KEEP
@@ -4425,7 +4329,7 @@ even $DELETE
 though $KEEP
 , $KEEP
 being $REPLACE_be
-sunburnst $REPLACE_sunburnt
+sunburnst @@UNKNOWN@@
 . $KEEP
 
 Let $KEEP
@@ -4475,7 +4379,6 @@ the $KEEP
 most $KEEP
 important $KEEP
 experience $TRANSFORM_VERB_VB_VBZ
-, $APPEND_,
 I $KEEP
 think $APPEND_,
 was $KEEP
@@ -4553,7 +4456,6 @@ I $KEEP
 had $REPLACE_was
 4 $KEEP
 years $APPEND_,
-old $APPEND_old
 I $KEEP
 went $KEEP
 to $KEEP
@@ -4581,13 +4483,11 @@ Ensenada $KEEP
 . $KEEP
 
 Since $REPLACE_From
-when $APPEND_when
 I $KEEP
 was $KEEP
 born $KEEP
 to $APPEND_when
 my $REPLACE_I
-was $APPEND_was
 18 $KEEP
 years $KEEP
 old $APPEND_,
@@ -4656,7 +4556,6 @@ friends $KEEP
 
 All $REPLACE_Every
 weekends $TRANSFORM_VERB_VBZ_VB
-, $APPEND_,
 I $KEEP
 used $APPEND_to
 going $TRANSFORM_VERB_VBG_VB
@@ -4705,8 +4604,7 @@ life $KEEP
 . $KEEP
 
 For $REPLACE_To
-summit $REPLACE_sum
-up $APPEND_up
+summit @@UNKNOWN@@
 , $KEEP
 came $TRANSFORM_VERB_VBD_VBG
 to $KEEP
@@ -4747,7 +4645,6 @@ did $APPEND_,
 because $KEEP
 I $KEEP
 do $REPLACE_am
-doing $APPEND_doing
 what $KEEP
 I $KEEP
 like $KEEP
@@ -4776,7 +4673,6 @@ village $KEEP
 on $REPLACE_in
 countryside $KEEP
 with $APPEND_only
-a $APPEND_a
 few $KEEP
 people $KEEP
 . $KEEP
@@ -4787,7 +4683,6 @@ we $KEEP
 are $KEEP
 a $KEEP
 country $REPLACE_small
-village $APPEND_village
 , $KEEP
 we $KEEP
 take $KEEP
@@ -4836,7 +4731,7 @@ plastic $KEEP
 . $KEEP
 
 The $KEEP
-garbage $APPEND_truck
+garbage @@UNKNOWN@@
 picks $KEEP
 up $KEEP
 paper $KEEP
@@ -4850,7 +4745,7 @@ times $KEEP
 at $REPLACE_per
 month $KEEP
 and $KEEP
-undiferretiated $REPLACE_undifferentiated
+undiferretiated @@UNKNOWN@@
 three $KEEP
 times $KEEP
 a $KEEP
@@ -4870,7 +4765,7 @@ district $KEEP
 makes $KEEP
 clean $DELETE
 my $KEEP
-village $APPEND_clean
+village @@UNKNOWN@@
 and $KEEP
 it $KEEP
 usually $KEEP
@@ -4917,7 +4812,6 @@ friend $KEEP
 
 We $KEEP
 're $REPLACE_have
-been $APPEND_been
 friends $KEEP
 since $KEEP
 we $KEEP
@@ -4961,10 +4855,8 @@ we $KEEP
 were $KEEP
 12 $KEEP
 years $APPEND_old
-, $APPEND_,
 everything $KEEP
 changes $TRANSFORM_VERB_VBZ_VBN
-. $APPEND_.
 we $TRANSFORM_CASE_CAPITAL
 do $REPLACE_did
 n't $KEEP
@@ -4987,13 +4879,11 @@ Because $KEEP
 of $KEEP
 age $KEEP
 changing $APPEND_us
-, $APPEND_,
 we $KEEP
 did $KEEP
 n't $KEEP
 see $KEEP
 us $REPLACE_each
-other $APPEND_other
 , $KEEP
 but $KEEP
 in $DELETE
@@ -5041,7 +4931,6 @@ but $KEEP
 we $KEEP
 love $KEEP
 us $REPLACE_each
-other $APPEND_other
 because $KEEP
 he $KEEP
 always $KEEP
@@ -5198,7 +5087,6 @@ it $KEEP
 is $KEEP
 so $KEEP
 exhausting $APPEND_for
-people $APPEND_people
 to $KEEP
 drive $KEEP
 lots $REPLACE_for
@@ -5228,7 +5116,6 @@ need $KEEP
 public $KEEP
 transportation $KEEP
 , $REPLACE_.
-It $APPEND_It
 is $KEEP
 important $KEEP
 . $KEEP
@@ -5244,7 +5131,6 @@ and $KEEP
 some $KEEP
 people $KEEP
 think $APPEND_the
-car $APPEND_car
 is $KEEP
 more $KEEP
 convenient $KEEP
@@ -5289,7 +5175,6 @@ we $KEEP
 can $KEEP
 meet $REPLACE_get
 the $REPLACE_to
-know $APPEND_know
 cultures $KEEP
 , $KEEP
 monuments $KEEP
@@ -5329,7 +5214,6 @@ salary $KEEP
 . $KEEP
 
 Although $REPLACE_However
-, $APPEND_,
 we $KEEP
 need $KEEP
 to $KEEP
@@ -5370,7 +5254,6 @@ first $KEEP
 century $KEEP
 a $KEEP
 person $APPEND_has
-to $APPEND_to
 live $KEEP
 with $REPLACE_on
 less $KEEP
@@ -5407,8 +5290,6 @@ I $KEEP
 can $REPLACE_could
 see $KEEP
 much $REPLACE_a
-lot $APPEND_lot
-of $APPEND_of
 films $APPEND_for
 free $KEEP
 and $KEEP
@@ -5453,10 +5334,8 @@ watch $KEEP
 . $KEEP
 
 they $TRANSFORM_CASE_CAPITAL
-asked $APPEND_asked
 do $REPLACE_a
 more $REPLACE_lot
-of $APPEND_of
 questions $KEEP
 and $KEEP
 I $KEEP
@@ -5470,7 +5349,6 @@ I $KEEP
 could $KEEP
 n't $KEEP
 buy $APPEND_tickets
-for $APPEND_for
 the $KEEP
 tickets $DELETE
 of $DELETE
@@ -5482,11 +5360,8 @@ but $KEEP
 I $KEEP
 could $KEEP
 do $REPLACE_give
-a $APPEND_a
 more $REPLACE_lot
-of $APPEND_of
 discount $TRANSFORM_VERB_VB_VBZ
-to $APPEND_to
 all $KEEP
 my $KEEP
 friends $KEEP
@@ -5512,8 +5387,6 @@ money $KEEP
 and $KEEP
 I $KEEP
 can $REPLACE_was
-able $APPEND_able
-to $APPEND_to
 buy $KEEP
 a $KEEP
 lot $KEEP
@@ -5534,7 +5407,7 @@ up $KEEP
 I $KEEP
 see $TRANSFORM_VERB_VB_VBD
 the $KEEP
-new $APPEND_Disney
+new @@UNKNOWN@@
 film $KEEP
 of $DELETE
 Disney $REPLACE_,
@@ -5546,9 +5419,8 @@ and $KEEP
 I $KEEP
 eat $TRANSFORM_VERB_VB_VBD
 much $REPLACE_a
-lot $APPEND_lot
 pop $REPLACE_of
-corn $REPLACE_popcorn
+corn @@UNKNOWN@@
 ! $KEEP
 
 I $KEEP
@@ -5581,7 +5453,6 @@ anyone $KEEP
 ! $KEEP
 
 hoping $REPLACE_Looking
-forward $APPEND_forward
 for $REPLACE_to
 your $KEEP
 answer $KEEP
@@ -5634,7 +5505,7 @@ will $KEEP
 protect $KEEP
 the $KEEP
 environment $APPEND_by
-selecting $REPLACE_separating
+selecting @@UNKNOWN@@
 the $KEEP
 rubbish $KEEP
 by $KEEP
@@ -5671,7 +5542,6 @@ one $KEEP
 for $KEEP
 bottles $KEEP
 y $REPLACE_,
-and $APPEND_and
 the $KEEP
 last $KEEP
 one $KEEP
@@ -5694,7 +5564,6 @@ to $KEEP
 cut $APPEND_down
 on $KEEP
 spends $REPLACE_the
-use $APPEND_use
 of $KEEP
 the $DELETE
 water $KEEP
@@ -5743,8 +5612,6 @@ from $KEEP
 the $KEEP
 goverment $REPLACE_government
 like $REPLACE_,
-such $APPEND_such
-that $APPEND_that
 if $KEEP
 they $KEEP
 cut $KEEP
@@ -5754,7 +5621,7 @@ of $KEEP
 every $KEEP
 house $KEEP
 by $KEEP
-50 $REPLACE_50%
+50 @@UNKNOWN@@
 % $REPLACE_,
 city $KEEP
 halls $APPEND_will
@@ -5888,7 +5755,6 @@ say $KEEP
 . $KEEP
 
 According $REPLACE_With
-reference $APPEND_reference
 to $KEEP
 your $KEEP
 e $KEEP
@@ -5923,7 +5789,7 @@ date $KEEP
 
 Awaiting $KEEP
 for $DELETE
-your $APPEND_prompt
+your @@UNKNOWN@@
 amendment $KEEP
 as $DELETE
 soon $DELETE
@@ -5932,7 +5798,7 @@ possible $DELETE
 . $KEEP
 
 Ride $DELETE
-bicycle $REPLACE_Cycling
+bicycle @@UNKNOWN@@
 is $KEEP
 my $KEEP
 favourite $KEEP
@@ -5948,7 +5814,6 @@ healthy $KEEP
 It $KEEP
 leep $KEEP
 me $APPEND_in
-a $APPEND_a
 positive $KEEP
 mood $KEEP
 . $KEEP
@@ -5957,8 +5822,6 @@ I $KEEP
 can $KEEP
 seen $TRANSFORM_VERB_VBN_VB
 much $REPLACE_a
-lot $APPEND_lot
-of $APPEND_of
 scenery $KEEP
 in $APPEND_a
 short $KEEP
@@ -5973,14 +5836,13 @@ the $KEEP
 road $KEEP
 . $KEEP
 
-Buy $REPLACE_Buying
+Buy @@UNKNOWN@@
 a $KEEP
 good $KEEP
 bike $KEEP
 is $KEEP
 the $KEEP
 first $APPEND_to
-do $APPEND_do
 when $KEEP
 you $KEEP
 start $KEEP
@@ -5988,7 +5850,6 @@ to $KEEP
 ride $REPLACE_cycle
 . $KEEP
 
-Cycle $KEEP
 Once $REPLACE_one
 or $KEEP
 twice $KEEP
@@ -6039,7 +5900,7 @@ not $KEEP
 necessary $KEEP
 to $KEEP
 buy $KEEP
-envelops $REPLACE_envelopes
+envelops @@UNKNOWN@@
 and $KEEP
 stamps $KEEP
 to $KEEP
@@ -6117,7 +5978,6 @@ to $KEEP
 play $KEEP
 it $KEEP
 on $REPLACE_in
-a $APPEND_a
 team $KEEP
 . $KEEP
 
@@ -6231,7 +6091,7 @@ play $KEEP
 
 All $DELETE
 the $DELETE
-people $REPLACE_Anybody
+people @@UNKNOWN@@
 can $KEEP
 do $KEEP
 this $KEEP
@@ -6244,7 +6104,6 @@ recognize $TRANSFORM_VERB_VB_VBN
 to $REPLACE_by
 people $KEEP
 in $REPLACE_all
-over $APPEND_over
 the $KEEP
 world $KEEP
 . $KEEP
@@ -6321,7 +6180,6 @@ on $KEEP
 February $KEEP
 9th $KEEP
 on $REPLACE_in
-the $APPEND_the
 local $KEEP
 newspaper $KEEP
 . $KEEP
@@ -6513,7 +6371,6 @@ haven't $REPLACE_n't
 a $REPLACE_have
 good $KEEP
 communication $APPEND_do
-n't $APPEND_n't
 haven't $REPLACE_have
 a $KEEP
 good $KEEP
@@ -6558,7 +6415,7 @@ most $KEEP
 beautiful $KEEP
 countries $KEEP
 - $KEEP
-Ukrane $REPLACE_Ukraine
+Ukrane @@UNKNOWN@@
 . $KEEP
 
 When $KEEP
@@ -6667,7 +6524,7 @@ pool $KEEP
 , $KEEP
 I $KEEP
 am $KEEP
-overfilled $REPLACE_overwhelmed
+overfilled @@UNKNOWN@@
 by $KEEP
 positive $KEEP
 emotions $KEEP
@@ -6687,7 +6544,6 @@ of $KEEP
 broaden $TRANSFORM_VERB_VB_VBG
 the $KEEP
 ming $REPLACE_mind
-while $APPEND_while
 traveling $KEEP
 is $KEEP
 very $KEEP
@@ -6729,7 +6585,6 @@ fun $KEEP
 you $TRANSFORM_CASE_CAPITAL
 also $KEEP
 lern $REPLACE_learn
-about $APPEND_about
 others $TRANSFORM_AGREEMENT_SINGULAR
 cultures $KEEP
 , $KEEP
@@ -6804,7 +6659,6 @@ way $KEEP
 
 In $KEEP
 conclussion $REPLACE_conclusion
-, $APPEND_,
 I $KEEP
 think $KEEP
 that $KEEP
@@ -6817,7 +6671,6 @@ to $KEEP
 opemn $REPLACE_open
 your $KEEP
 mindn $REPLACE_mind
-. $APPEND_.
 not $TRANSFORM_CASE_CAPITAL
 the $KEEP
 only $KEEP
@@ -6836,7 +6689,6 @@ truly $KEEP
 started $KEEP
 to $APPEND_be
 concern $TRANSFORM_VERB_VB_VBN
-about $APPEND_about
 no $REPLACE_the
 environment $KEEP
 and $KEEP
@@ -6867,7 +6719,6 @@ and $KEEP
 keep $KEEP
 them $KEEP
 tidy $APPEND_.
-Also $APPEND_Also
 , $KEEP
 also $DELETE
 they $KEEP
@@ -6906,7 +6757,7 @@ to $KEEP
 the $KEEP
 council $KEEP
 for $KEEP
-cleaning $REPLACE_removal
+cleaning @@UNKNOWN@@
 of $KEEP
 the $KEEP
 rubbish $KEEP
@@ -6942,7 +6793,6 @@ pollution $KEEP
 of $KEEP
 their $KEEP
 city $APPEND_.
-Also $APPEND_Also
 , $KEEP
 also $DELETE
 they $KEEP
@@ -7010,7 +6860,7 @@ example $KEEP
 if $KEEP
 we $KEEP
 completely $KEEP
-relaying $REPLACE_rely
+relaying @@UNKNOWN@@
 to $REPLACE_on
 use $REPLACE_using
 cars $KEEP
@@ -7020,7 +6870,6 @@ going $KEEP
 to $KEEP
 increase $KEEP
 the $APPEND_use
-of $APPEND_of
 gasoline $KEEP
 uses $DELETE
 . $KEEP
@@ -7127,7 +6976,6 @@ a $KEEP
 great $KEEP
 example $KEEP
 for $REPLACE_of
-an $APPEND_an
 incredible $KEEP
 city $KEEP
 , $REPLACE_.
@@ -7215,7 +7063,6 @@ we $KEEP
 can $KEEP
 not $KEEP
 avoid $REPLACE_do
-without $APPEND_without
 or $KEEP
 replace $KEEP
 with $KEEP
@@ -7246,7 +7093,7 @@ will $KEEP
 be $KEEP
 safer $KEEP
 and $KEEP
-speeder $REPLACE_speedier
+speeder @@UNKNOWN@@
 than $KEEP
 now $KEEP
 . $KEEP
@@ -7275,7 +7122,6 @@ friends $KEEP
 what $KEEP
 country $KEEP
 we $REPLACE_they
-should $APPEND_should
 have $REPLACE_go
 to $KEEP
 go $DELETE
@@ -7360,7 +7206,7 @@ There $KEEP
 is $KEEP
 no $KEEP
 word $KEEP
-to $APPEND_describe
+to @@UNKNOWN@@
 explain $REPLACE_it
 . $KEEP
 
@@ -7396,7 +7242,7 @@ complicated $KEEP
 . $REPLACE_,
 but $KEEP
 nobody $KEEP
-complaint $REPLACE_complains
+complaint @@UNKNOWN@@
 . $KEEP
 
 I $KEEP
@@ -7505,7 +7351,6 @@ world $TRANSFORM_CASE_CAPITAL
 Where $KEEP
 we $APPEND_were
 could $REPLACE_able
-to $APPEND_to
 visit $KEEP
 all $KEEP
 the $KEEP
@@ -7526,10 +7371,8 @@ kingdom $KEEP
 
 In $KEEP
 adittion $REPLACE_addition
-, $APPEND_,
 we $APPEND_were
 could $REPLACE_able
-to $APPEND_to
 visit $KEEP
 others $TRANSFORM_AGREEMENT_SINGULAR
 parks $KEEP
@@ -7560,7 +7403,7 @@ in $REPLACE_on
 a $KEEP
 Royal $KEEP
 Caribean $KEEP
-cruise $APPEND_ship
+cruise @@UNKNOWN@@
 , $KEEP
 where $KEEP
 all $KEEP
@@ -7595,7 +7438,7 @@ which $KEEP
 is $KEEP
 a $KEEP
 private $KEEP
-island $APPEND_belonging
+island @@UNKNOWN@@
 of $REPLACE_to
 the $KEEP
 cruise $KEEP
@@ -7761,8 +7604,7 @@ Spain $KEEP
 with $KEEP
 my $KEEP
 step $DELETE
-grandma $REPLACE_stepgrandma
-, $APPEND_,
+grandma @@UNKNOWN@@
 but $KEEP
 she $KEEP
 is $KEEP
@@ -7865,7 +7707,6 @@ a $KEEP
 lot $KEEP
 of $KEEP
 persoane $REPLACE_people
-came $APPEND_came
 . $KEEP
 
 We $KEEP
@@ -7880,8 +7721,6 @@ Band $KEEP
 minunate $KEEP
 . $KEEP
 
-Their $APPEND_Their
-. $APPEND_.
 Their $KEEP
 voices $KEEP
 have $KEEP
@@ -7901,7 +7740,6 @@ feeling $KEEP
 On $KEEP
 the $KEEP
 scene $REPLACE_stage
-they $APPEND_they
 moves $TRANSFORM_VERB_VBZ_VB
 very $KEEP
 well $KEEP
@@ -7958,8 +7796,6 @@ my $KEEP
 heart $KEEP
 . $KEEP
 
-I $APPEND_I
-. $APPEND_.
 I $KEEP
 hope $KEEP
 as $KEEP
@@ -7999,7 +7835,6 @@ so $DELETE
 really $KEEP
 have $KEEP
 many $REPLACE_a
-lot $APPEND_lot
 of $KEEP
 work $KEEP
 activities $KEEP
@@ -8040,7 +7875,7 @@ I $KEEP
 am $REPLACE_was
 be $DELETE
 the $KEEP
-fiance $REPLACE_fiancee
+fiance @@UNKNOWN@@
 of $KEEP
 Adam $KEEP
 . $KEEP
@@ -8049,7 +7884,6 @@ OMG $KEEP
 , $KEEP
 I $KEEP
 can $APPEND_'
-t $APPEND_t
 stop $KEEP
 imagine $TRANSFORM_VERB_VB_VBG
 until $REPLACE_it
@@ -8311,7 +8145,6 @@ have $KEEP
 two $KEEP
 sisters $KEEP
 with $REPLACE_who
-are $APPEND_are
 9 $KEEP
 and $KEEP
 11 $KEEP
@@ -8434,7 +8267,6 @@ at $KEEP
 Berlin $KEEP
 Ostbf $KEEP
 station $APPEND_at
-11.10 $APPEND_11.10
 . $KEEP
 
 Is $KEEP
@@ -8454,7 +8286,6 @@ think $KEEP
 in $APPEND_the
 future $KEEP
 is $REPLACE_it
-wo $APPEND_wo
 n't $APPEND_be
 necessary $KEEP
 to $KEEP
@@ -8466,9 +8297,6 @@ and $TRANSFORM_CASE_CAPITAL
 why $KEEP
 ? $KEEP
 
-To $APPEND_To
-put $APPEND_put
-it $APPEND_it
 Simple $REPLACE_simply
 , $KEEP
 the $KEEP
@@ -8513,7 +8341,7 @@ car $KEEP
 . $KEEP
 
 This $KEEP
-afirmation $REPLACE_affirmation
+afirmation @@UNKNOWN@@
 : $KEEP
 travelling $KEEP
 by $KEEP
@@ -8525,8 +8353,6 @@ more $KEEP
 convenient $APPEND_,
 say $TRANSFORM_VERB_VB_VBZ
 everything $APPEND_.
-For $APPEND_For
-example $APPEND_example
 , $KEEP
 for $DELETE
 example $DELETE
@@ -8541,8 +8367,6 @@ we $KEEP
 spent $TRANSFORM_VERB_VBN_VB
 on $KEEP
 wait $TRANSFORM_VERB_VB_VBG
-for $APPEND_for
-a $APPEND_a
 bus $KEEP
 to $KEEP
 arrive $APPEND_at
@@ -8552,7 +8376,6 @@ destiny $REPLACE_destination
 the $KEEP
 traffic $KEEP
 is $APPEND_one
-of $APPEND_of
 a $KEEP
 lot $KEEP
 of $KEEP
@@ -8563,7 +8386,6 @@ prefer $APPEND_to
 buy $APPEND_a
 car $APPEND_.
 it $TRANSFORM_CASE_CAPITAL
-is $APPEND_is
 more $KEEP
 practical $KEEP
 and $KEEP
@@ -8617,7 +8439,6 @@ can $KEEP
 see $KEEP
 a $REPLACE_the
 lot $REPLACE_large
-amount $APPEND_amount
 of $KEEP
 many $REPLACE_money
 we $KEEP
@@ -8735,7 +8556,6 @@ many $KEEP
 attractions $KEEP
 between $REPLACE_among
 which $APPEND_there
-is $APPEND_is
 the $KEEP
 lake $KEEP
 , $KEEP
@@ -8816,7 +8636,6 @@ not $KEEP
 a $KEEP
 good $KEEP
 way $APPEND_to
-be $APPEND_be
 . $KEEP
 
 On $KEEP
@@ -8929,18 +8748,17 @@ the $KEEP
 increasing $KEEP
 number $KEEP
 of $KEEP
-skateboarded $REPLACE_skateboard
+skateboarded @@UNKNOWN@@
 users $KEEP
 . $KEEP
 
 Likewise $KEEP
 , $KEEP
 the $KEEP
-skateboarded $REPLACE_skateboard
+skateboarded @@UNKNOWN@@
 users $KEEP
 brought $APPEND_a
 numerous $REPLACE_lot
-of $APPEND_of
 garbage $KEEP
 that $KEEP
 affects $KEEP
@@ -8962,7 +8780,6 @@ the $KEEP
 statement $KEEP
 that $KEEP
 drew $REPLACE_came
-to $APPEND_to
 a $REPLACE_the
 conclusion $APPEND_that
 to $KEEP
@@ -8995,7 +8812,7 @@ argument $KEEP
 
 If $KEEP
 more $KEEP
-skateboarded $REPLACE_skateboard
+skateboarded @@UNKNOWN@@
 users $KEEP
 are $KEEP
 willing $KEEP
@@ -9018,9 +8835,8 @@ business $KEEP
 . $KEEP
 
 It $REPLACE_This
-is $APPEND_contrary
+is @@UNKNOWN@@
 against $REPLACE_to
-the $APPEND_the
 author $KEEP
 's $KEEP
 assertion $KEEP
@@ -9036,7 +8852,6 @@ decreasing $TRANSFORM_VERB_VBG_VB
 of $REPLACE_in
 business $KEEP
 should $REPLACE_must
-be $APPEND_be
 cause $TRANSFORM_VERB_VB_VBN
 by $KEEP
 other $KEEP
@@ -9044,7 +8859,7 @@ factors $KEEP
 , $KEEP
 but $KEEP
 not $KEEP
-skateboarded $REPLACE_skateboard
+skateboarded @@UNKNOWN@@
 users $KEEP
 . $KEEP
 
@@ -9059,7 +8874,6 @@ cause $KEEP
 the $DELETE
 business $APPEND_to
 dropping $TRANSFORM_VERB_VBG_VB
-off $APPEND_off
 . $KEEP
 
 Probably $KEEP
@@ -9081,7 +8895,6 @@ walk $KEEP
 into $APPEND_them
 , $KEEP
 and $APPEND_they
-will $APPEND_will
 have $KEEP
 to $APPEND_be
 renovate $TRANSFORM_VERB_VB_VBN
@@ -9091,7 +8904,6 @@ Furthermore $KEEP
 , $KEEP
 the $KEEP
 produce $REPLACE_products
-for $APPEND_for
 sales $TRANSFORM_AGREEMENT_SINGULAR
 in $KEEP
 the $KEEP
@@ -9128,7 +8940,7 @@ sanitation $KEEP
 problem $KEEP
 caused $KEEP
 by $KEEP
-skateboarded $REPLACE_skateboard
+skateboarded @@UNKNOWN@@
 users $KEEP
 is $KEEP
 not $KEEP
@@ -9174,7 +8986,7 @@ skateboarding $KEEP
 immediately $KEEP
 is $KEEP
 the $KEEP
-skateboarded $REPLACE_skateboard
+skateboarded @@UNKNOWN@@
 users $KEEP
 take $TRANSFORM_VERB_VB_VBG
 over $KEEP
@@ -9238,7 +9050,7 @@ concerns $KEEP
 , $KEEP
 the $KEEP
 increasing $KEEP
-skateboarded $REPLACE_skateboard
+skateboarded @@UNKNOWN@@
 users $KEEP
 would $KEEP
 bring $KEEP
@@ -9369,10 +9181,9 @@ children $KEEP
 at $KEEP
 most $KEEP
 .I $REPLACE_.
-I $APPEND_I
 think $KEEP
 the $KEEP
-Egyption $REPLACE_Egyptian
+Egyption @@UNKNOWN@@
 family $APPEND_has
 became $TRANSFORM_VERB_VBD_VBN
 simller $REPLACE_smaller
@@ -9449,7 +9260,7 @@ addict $KEEP
 Finally $KEEP
 , $KEEP
 the $KEEP
-consecuense $REPLACE_consequence
+consecuense @@UNKNOWN@@
 of $KEEP
 cocaine $KEEP
 are $DELETE
@@ -9458,8 +9269,7 @@ dead $REPLACE_death
 , $REPLACE_.
 if $TRANSFORM_CASE_CAPITAL
 you $KEEP
-sniff $REPLACE_inhale
-cocaine $APPEND_cocaine
+sniff @@UNKNOWN@@
 all $KEEP
 the $KEEP
 time $KEEP
@@ -9470,7 +9280,7 @@ lot $KEEP
 , $KEEP
 you $APPEND_will
 die $KEEP
-early $REPLACE_prematurely
+early @@UNKNOWN@@
 . $KEEP
 
 In $KEEP
@@ -9487,7 +9297,7 @@ addiction $KEEP
 because $KEEP
 you $KEEP
 die $KEEP
-early $REPLACE_prematurely
+early @@UNKNOWN@@
 and $KEEP
 your $KEEP
 body $KEEP
@@ -9561,7 +9371,6 @@ future $KEEP
 . $KEEP
 
 ultimately $TRANSFORM_CASE_CAPITAL
-, $APPEND_,
 public $KEEP
 transport $KEEP
 would $REPLACE_will
@@ -9624,7 +9433,6 @@ regular $KEEP
 transport $KEEP
 . $KEEP
 also $TRANSFORM_CASE_CAPITAL
-, $APPEND_,
 public $KEEP
 transport $KEEP
 is $DELETE
@@ -9657,7 +9465,7 @@ to $KEEP
 emission $TRANSFORM_AGREEMENT_PLURAL
 of $KEEP
 carbon $KEEP
-mono $REPLACE_mon
+mono @@UNKNOWN@@
 oxide $APPEND_,
 which $KEEP
 is $DELETE
@@ -9669,7 +9477,7 @@ cells $KEEP
 and $KEEP
 irritate $TRANSFORM_VERB_VB_VBZ
 to $REPLACE_the
-breathing $REPLACE_respiratory
+breathing @@UNKNOWN@@
 system $KEEP
 . $KEEP
 as $TRANSFORM_CASE_CAPITAL
@@ -9689,8 +9497,6 @@ hazards $KEEP
 . $KEEP
 
 finally $TRANSFORM_CASE_CAPITAL
-, $APPEND_,
-the $APPEND_the
 public $KEEP
 transport $KEEP
 system $KEEP
@@ -9836,8 +9642,6 @@ need $KEEP
 I $KEEP
 am $KEEP
 expecting $REPLACE_looking
-forward $APPEND_forward
-to $APPEND_to
 your $KEEP
 answer $KEEP
 . $KEEP
@@ -9883,9 +9687,8 @@ swim $TRANSFORM_VERB_VB_VBG
 in $KEEP
 the $KEEP
 sea $KEEP
-, $APPEND_sunbathing
+, @@UNKNOWN@@
 had $REPLACE_,
-having $APPEND_having
 a $KEEP
 sunbathe $DELETE
 , $DELETE
@@ -9894,7 +9697,6 @@ a $DELETE
 barbacue $REPLACE_barbecue
 and $KEEP
 saw $TRANSFORM_VERB_VBD_VBG
-the $APPEND_the
 sunset $KEEP
 . $KEEP
 
@@ -9902,8 +9704,6 @@ For $KEEP
 next $KEEP
 time $APPEND_,
 we $APPEND_would
-like $APPEND_like
-to $APPEND_to
 invite $KEEP
 you $KEEP
 to $KEEP
@@ -9943,7 +9743,7 @@ from $KEEP
 an $KEEP
 ice $KEEP
 - $KEEP
-cream $APPEND_van
+cream @@UNKNOWN@@
 while $KEEP
 the $KEEP
 other $KEEP
@@ -9977,9 +9777,7 @@ from $KEEP
 approximately $KEEP
 1800 $KEEP
 to $KEEP
-2500,the $REPLACE_2500
-, $APPEND_,
-the $APPEND_the
+2500,the @@UNKNOWN@@
 period $KEEP
 of $KEEP
 every $KEEP
@@ -10013,7 +9811,6 @@ to $KEEP
 the $KEEP
 line $KEEP
 of $REPLACE_for
-the $APPEND_the
 indoor $KEEP
 swimming $KEEP
 pool $KEEP
@@ -10100,12 +9897,8 @@ achievement $KEEP
 of $KEEP
 the $KEEP
 van $KEEP
-is $APPEND_4500
-, $APPEND_,
-5000 $APPEND_5000
-, $APPEND_,
-5500 $APPEND_5500
-4500,5000,5500respectively $REPLACE_respectively
+is @@UNKNOWN@@
+4500,5000,5500respectively @@UNKNOWN@@
 . $KEEP
 
 One $KEEP
@@ -10123,7 +9916,6 @@ n't $KEEP
 remember $KEEP
 the $KEEP
 name $APPEND_of
-, $APPEND_,
 I $KEEP
 woke $KEEP
 up $KEEP
@@ -10166,7 +9958,6 @@ come $REPLACE_gone
 to $KEEP
 the $DELETE
 town $APPEND_.
-Quickly $APPEND_Quickly
 , $KEEP
 quickly $DELETE
 I $KEEP
@@ -10186,14 +9977,10 @@ one $KEEP
 absolutely $KEEP
 no $KEEP
 one $APPEND_.
-I $APPEND_I
-was $APPEND_was
-scared $APPEND_scared
 , $KEEP
 I $KEEP
-'m $REPLACE_yelled
+'m @@UNKNOWN@@
 scary $REPLACE_and
-screamed $APPEND_screamed
 , $KEEP
 I $DELETE
 yell $REPLACE_looked
@@ -10206,7 +9993,7 @@ look $DELETE
 but $KEEP
 I $KEEP
 had $KEEP
-no $APPEND_success
+no @@UNKNOWN@@
 result $REPLACE_.
 
 Suddenly $KEEP
@@ -10223,7 +10010,6 @@ and $KEEP
 very $KEEP
 slowly $KEEP
 turn $TRANSFORM_VERB_VB_VBN
-, $APPEND_,
 but $KEEP
 the $KEEP
 only $KEEP
@@ -10258,7 +10044,6 @@ I $KEEP
 was $KEEP
 in $REPLACE_on
 youtube $REPLACE_YouTube
-, $APPEND_,
 I $KEEP
 saw $KEEP
 a $KEEP
@@ -10307,7 +10092,6 @@ before $DELETE
 I $KEEP
 had $KEEP
 seen $APPEND_days
-before $APPEND_before
 . $KEEP
 
 The $KEEP
@@ -10335,7 +10119,7 @@ shore $REPLACE_seaside
 town $KEEP
 when $REPLACE_,
 he $REPLACE_who
-felt $REPLACE_falls
+felt @@UNKNOWN@@
 in $KEEP
 love $KEEP
 with $KEEP
@@ -10458,7 +10242,6 @@ swimming $KEEP
 . $KEEP
 
 I $APPEND_have
-been $APPEND_been
 swim $TRANSFORM_VERB_VB_VBG
 from $REPLACE_since
 childhood $KEEP
@@ -10499,7 +10282,6 @@ so $KEEP
 on $KEEP
 . $KEEP
 
-My $KEEP
 Advice $TRANSFORM_CASE_LOWER
 for $REPLACE_to
 everyone $REPLACE_anyone
@@ -10653,8 +10435,7 @@ also $KEEP
 I $KEEP
 'm $KEEP
 a $KEEP
-Jr. $REPLACE_jr
-. $APPEND_.
+Jr. @@UNKNOWN@@
 chef $KEEP
 . $KEEP
 
@@ -10786,8 +10567,6 @@ old $KEEP
 when $KEEP
 I $KEEP
 played $APPEND_it
-for $APPEND_for
-the $APPEND_the
 first $KEEP
 time $KEEP
 . $KEEP
@@ -10829,7 +10608,6 @@ play $KEEP
 this $KEEP
 game $KEEP
 , $APPEND_is
-that $APPEND_that
 you $KEEP
 do $KEEP
 n't $KEEP
@@ -10910,7 +10688,6 @@ really $KEEP
 tall $KEEP
 hi $REPLACE_,
 have $REPLACE_he
-is $APPEND_is
 202 $KEEP
 centimeters $KEEP
 . $KEEP
@@ -10960,8 +10737,6 @@ difficult $KEEP
 here $KEEP
 . $KEEP
 
-In $APPEND_In
-the $APPEND_the
 First $TRANSFORM_CASE_LOWER
 place $KEEP
 , $KEEP
@@ -11016,10 +10791,10 @@ are $KEEP
 working $KEEP
 in $KEEP
 mc $DELETE
-donal $REPLACE_MacDonald
+donal @@UNKNOWN@@
 's $KEEP
 or $KEEP
-burguer $REPLACE_Burger
+burguer @@UNKNOWN@@
 king $TRANSFORM_CASE_CAPITAL
 for $KEEP
 a $KEEP
@@ -11134,7 +10909,6 @@ it $KEEP
 on $KEEP
 nearly $KEEP
 everyday $REPLACE_every
-day $APPEND_day
 , $KEEP
 since $KEEP
 it $KEEP
@@ -11173,7 +10947,7 @@ played $REPLACE_broadcast
 on $KEEP
 television $KEEP
 may $KEEP
-enlight $REPLACE_enlighten
+enlight @@UNKNOWN@@
 us $KEEP
 and $KEEP
 give $KEEP
@@ -11196,7 +10970,6 @@ a $KEEP
 deep $KEEP
 meaning $KEEP
 , $REPLACE_.
-A $APPEND_A
 short $KEEP
 story $KEEP
 tells $KEEP
@@ -11389,7 +11162,6 @@ includes $KEEP
 a $KEEP
 huge $APPEND_car
 parking $TRANSFORM_VERB_VBG_VB
-, $APPEND_,
 so $KEEP
 you $KEEP
 can $KEEP
@@ -11430,7 +11202,6 @@ prefer $REPLACE_like
 the $KEEP
 most $APPEND_.
 
-The $KEEP
 Invention $TRANSFORM_CASE_LOWER
 of $APPEND_the
 car $KEEP
@@ -11444,8 +11215,6 @@ easier $KEEP
 
 No $KEEP
 more $REPLACE_No
-longer $APPEND_longer
-do $APPEND_do
 they $KEEP
 have $KEEP
 to $KEEP
@@ -11471,7 +11240,6 @@ many $KEEP
 companions $REPLACE_people
 , $APPEND_and
 increase $APPEND_one
-'s $APPEND_'s
 network $KEEP
 . $KEEP
 
@@ -11518,10 +11286,8 @@ pass $KEEP
 through $KEEP
 . $KEEP
 
-At $KEEP
 Those $TRANSFORM_CASE_LOWER
 times $APPEND_,
-a $APPEND_a
 car $KEEP
 is $KEEP
 convenient $KEEP
@@ -11578,14 +11344,11 @@ will $KEEP
 be $KEEP
 different $KEEP
 not $APPEND_in
-terms $APPEND_terms
 from $REPLACE_of
 architecture $KEEP
 , $KEEP
 but $KEEP
 the $REPLACE_in
-terms $APPEND_terms
-of $APPEND_of
 functionality $KEEP
 . $KEEP
 
@@ -11627,7 +11390,6 @@ all $KEEP
 round $KEEP
 . $KEEP
 
-The $KEEP
 Progress $TRANSFORM_CASE_LOWER
 of $KEEP
 the $DELETE
@@ -11654,7 +11416,7 @@ future $KEEP
 cars $KEEP
 when $KEEP
 the $KEEP
-drive $REPLACE_fuel
+drive @@UNKNOWN@@
 will $KEEP
 be $KEEP
 electricty $REPLACE_electricity
@@ -11721,9 +11483,8 @@ tell $TRANSFORM_VERB_VB_VBZ
 us $KEEP
 the $KEEP
 story $KEEP
-of $APPEND_Monica
-( $APPEND_(
-Monica(Scarlett $REPLACE_Scarlett
+of @@UNKNOWN@@
+Monica(Scarlett @@UNKNOWN@@
 Johansson $KEEP
 ) $KEEP
 and $KEEP
@@ -11789,7 +11550,7 @@ coffee $KEEP
 shop $KEEP
 in $KEEP
 center $REPLACE_the
-city $APPEND_centre
+city @@UNKNOWN@@
 . $KEEP
 
 One $KEEP
@@ -11832,8 +11593,6 @@ pm $KEEP
 . $KEEP
 
 After $APPEND_that
-, $APPEND_,
-I $APPEND_I
 going $TRANSFORM_VERB_VBG_VB
 to $KEEP
 learn $DELETE
@@ -11848,11 +11607,9 @@ week $KEEP
 . $KEEP
 
 Another $REPLACE_In
-addition $APPEND_addition
 , $KEEP
 I $KEEP
 spent $TRANSFORM_VERB_VBN_VB
-my $APPEND_my
 free $KEEP
 time $KEEP
 do $REPLACE_doing
@@ -11907,7 +11664,7 @@ I $KEEP
 like $KEEP
 to $KEEP
 read $KEEP
-biography $REPLACE_biographies
+biography @@UNKNOWN@@
 books $DELETE
 , $KEEP
 history $KEEP
@@ -11928,7 +11685,7 @@ I $KEEP
 have $KEEP
 all $KEEP
 her $KEEP
-colections $REPLACE_collected
+colections @@UNKNOWN@@
 books $REPLACE_works
 at $KEEP
 home $KEEP
@@ -11980,8 +11737,6 @@ of $KEEP
 them $KEEP
 . $KEEP
 
-At $APPEND_At
-home $APPEND_home
 I $KEEP
 have $KEEP
 at $DELETE
@@ -12011,12 +11766,9 @@ have $KEEP
 a $KEEP
 look $KEEP
 on $REPLACE_in
-charithy $REPLACE_charity
-shops $APPEND_shops
+charithy @@UNKNOWN@@
 and $APPEND_at
-bootsale $REPLACE_boot
-sales $APPEND_sales
-, $APPEND_,
+bootsale @@UNKNOWN@@
 because $KEEP
 I $KEEP
 can $KEEP
@@ -12052,14 +11804,12 @@ to $KEEP
 Amazon $KEEP
 . $KEEP
 
-A $KEEP
 Few $TRANSFORM_CASE_LOWER
 mounts $REPLACE_months
 ago $APPEND_,
 I $KEEP
-read $APPEND_Les
+read @@UNKNOWN@@
 Miserable $TRANSFORM_AGREEMENT_PLURAL
-, $APPEND_,
 by $KEEP
 Victor $KEEP
 Hugo $KEEP
@@ -12111,7 +11861,6 @@ was $KEEP
 amazing $KEEP
 , $REPLACE_.
 for $TRANSFORM_CASE_CAPITAL
-s $APPEND_s
 cuople $REPLACE_couple
 of $KEEP
 hours $APPEND_,
@@ -12120,7 +11869,6 @@ did $KEEP
 n't $KEEP
 move $KEEP
 , $REPLACE_.
-It $APPEND_It
 was $KEEP
 a $KEEP
 brilliant $KEEP
@@ -12142,8 +11890,7 @@ the $KEEP
 book $APPEND_is
 could $REPLACE_called
 The $KEEP
-Warior $REPLACE_Warrior
-. $APPEND_.
+Warior @@UNKNOWN@@
 I $KEEP
 haven't $KEEP
 finish $TRANSFORM_VERB_VB_VBN
@@ -12184,7 +11931,7 @@ Nowadays $APPEND_,
 there $KEEP
 are $KEEP
 many $KEEP
-ways $REPLACE_modes
+ways @@UNKNOWN@@
 to $REPLACE_of
 public $KEEP
 transportation $APPEND_,
@@ -12232,8 +11979,6 @@ and $KEEP
 reduce $KEEP
 enough $REPLACE_the
 time $APPEND_it
-takes $APPEND_takes
-. $APPEND_.
 sometimes $TRANSFORM_CASE_CAPITAL
 you $KEEP
 can $KEEP
@@ -12388,7 +12133,7 @@ Maybe $KEEP
 , $DELETE
 we $KEEP
 could $REPLACE_will
-find $REPLACE_invent
+find @@UNKNOWN@@
 with $DELETE
 flying $KEEP
 cars $KEEP
@@ -12400,7 +12145,6 @@ bikes $KEEP
 For $KEEP
 all $KEEP
 that $REPLACE_these
-reasons $APPEND_reasons
 , $KEEP
 I $KEEP
 think $KEEP
@@ -12432,7 +12176,7 @@ he $KEEP
 has $KEEP
 a $KEEP
 greater $KEEP
-sensibility $REPLACE_sensitivity
+sensibility @@UNKNOWN@@
 and $KEEP
 knowledge $KEEP
 . $KEEP
@@ -12766,10 +12510,9 @@ of $APPEND_the
 environment $KEEP
 , $REPLACE_.
 they $TRANSFORM_CASE_CAPITAL
-have $APPEND_have
 put $KEEP
 many $KEEP
-pins $REPLACE_bins
+pins @@UNKNOWN@@
 in $KEEP
 the $KEEP
 streets $KEEP
@@ -12791,14 +12534,14 @@ air $KEEP
 clean $KEEP
 , $REPLACE_.
 they $TRANSFORM_CASE_CAPITAL
-seed $REPLACE_plant
+seed @@UNKNOWN@@
 trees $KEEP
 to $KEEP
 absorb $KEEP
 co2 $KEEP
 and $KEEP
 release $KEEP
-o2 $REPLACE_oxygen
+o2 @@UNKNOWN@@
 , $KEEP
 they $KEEP
 build $KEEP
@@ -12822,7 +12565,6 @@ air $KEEP
 pollution $KEEP
 from $KEEP
 factories $APPEND_.
-So $APPEND_So
 , $KEEP
 so $DELETE
 not $KEEP
@@ -12838,7 +12580,7 @@ individuals $KEEP
 follow $KEEP
 a $KEEP
 proper $KEEP
-way $REPLACE_procedure
+way @@UNKNOWN@@
 to $KEEP
 keep $APPEND_the
 environment $KEEP
@@ -12899,7 +12641,6 @@ the $KEEP
 opponents $APPEND_'
 net $KEEP
 with $REPLACE_using
-only $APPEND_only
 your $KEEP
 foot $KEEP
 only $DELETE
@@ -12916,7 +12657,7 @@ one $KEEP
 of $KEEP
 the $KEEP
 most $KEEP
-expensive $APPEND_paintings
+expensive @@UNKNOWN@@
 of $REPLACE_in
 the $KEEP
 worls $REPLACE_world
@@ -12944,7 +12685,7 @@ one $KEEP
 of $KEEP
 the $KEEP
 special $KEEP
-band $REPLACE_gangs
+band @@UNKNOWN@@
 was $REPLACE_had
 stolen $KEEP
 the $KEEP
@@ -12959,8 +12700,6 @@ that $KEEP
 Pal $KEEP
 Enger $KEEP
 , $APPEND_the
-most $APPEND_most
-famous $APPEND_famous
 art $KEEP
 - $DELETE
 thief $KEEP
@@ -12970,7 +12709,6 @@ in $KEEP
 Norway $KEEP
 , $KEEP
 was $APPEND_the
-person $APPEND_person
 who $APPEND_had
 stolen $KEEP
 the $KEEP
@@ -13039,7 +12777,7 @@ the $KEEP
 painting $APPEND_,
 but $KEEP
 the $KEEP
-Norway $REPLACE_Norwegian
+Norway @@UNKNOWN@@
 government $KEEP
 said $KEEP
 no $KEEP
@@ -13048,7 +12786,7 @@ no $KEEP
 Finally $KEEP
 , $KEEP
 the $KEEP
-Norway $REPLACE_Norwegian
+Norway @@UNKNOWN@@
 police $KEEP
 catch $REPLACE_got
 the $KEEP
@@ -13056,7 +12794,6 @@ painting $KEEP
 again $REPLACE_back
 in $REPLACE_thanks
 one $REPLACE_to
-a $APPEND_a
 policy $REPLACE_police
 investigation $KEEP
 . $KEEP
@@ -13077,7 +12814,6 @@ different $KEEP
 companies $KEEP
 . $KEEP
 
-In $KEEP
 Particularly $REPLACE_particular
 , $KEEP
 I $KEEP
@@ -13107,7 +12843,6 @@ also $KEEP
 have $KEEP
 confronting $DELETE
 problem $APPEND_-
-solving $APPEND_solving
 skill $TRANSFORM_AGREEMENT_PLURAL
 . $KEEP
 
@@ -13121,7 +12856,7 @@ I $KEEP
 been $REPLACE_was
 given $REPLACE_paid
 the $KEEP
-complement $REPLACE_compliment
+complement @@UNKNOWN@@
 . $REPLACE_that
 
 Whenever $TRANSFORM_CASE_LOWER
@@ -13154,7 +12889,6 @@ even $APPEND_if
 I $KEEP
 was $KEEP
 under $REPLACE_in
-an $APPEND_an
 unexpected $KEEP
 situation $KEEP
 . $KEEP
@@ -13173,7 +12907,6 @@ will $KEEP
 prove $KEEP
 me $KEEP
 as $REPLACE_to
-be $APPEND_be
 an $KEEP
 ideal $KEEP
 candidate $KEEP
@@ -13203,7 +12936,6 @@ a $TRANSFORM_CASE_CAPITAL
 lot $KEEP
 of $KEEP
 knowledges $TRANSFORM_AGREEMENT_SINGULAR
-is $APPEND_is
 related $KEEP
 to $KEEP
 time $APPEND_,
@@ -13225,10 +12957,9 @@ about $KEEP
 how $DELETE
 we $DELETE
 come $DELETE
-faster $REPLACE_‽time
+faster @@UNKNOWN@@
 than $DELETE
 a $DELETE
-. $APPEND_.
 time.this $REPLACE_This
 famous $KEEP
 quote $KEEP
@@ -13398,8 +13129,6 @@ do $REPLACE_did
 n't $KEEP
 have $KEEP
 knowledge $APPEND_of
-the $APPEND_the
-thing $APPEND_thing
 called $KEEP
 ' $KEEP
 time $KEEP
@@ -13429,10 +13158,6 @@ I $KEEP
 did $KEEP
 not $KEEP
 care $APPEND_about
-time $APPEND_time
-. $APPEND_.
-I $APPEND_I
-used $APPEND_used
 to $KEEP
 time $DELETE
 I $DELETE
@@ -13470,8 +13195,6 @@ me $KEEP
 at $KEEP
 home $KEEP
 or $APPEND_I
-had $APPEND_had
-to $APPEND_to
 pay $KEEP
 for $DELETE
 him $KEEP
@@ -13607,7 +13330,6 @@ job $KEEP
 I $KEEP
 'm $KEEP
 a $APPEND_hard
-- $APPEND_-
 worker $REPLACE_working
 person $KEEP
 and $KEEP
@@ -13642,7 +13364,7 @@ I $KEEP
 have $KEEP
 a $KEEP
 teacher $REPLACE_teaching
-certificate $REPLACE_qualification
+certificate @@UNKNOWN@@
 . $KEEP
 I'm $KEEP
 a $KEEP
@@ -13653,7 +13375,7 @@ I $KEEP
 have $KEEP
 a $KEEP
 good $KEEP
-curriculum $REPLACE_CV
+curriculum @@UNKNOWN@@
 . $KEEP
 
 My $KEEP
@@ -13662,7 +13384,7 @@ of $KEEP
 this $KEEP
 job $KEEP
 y $REPLACE_is
-longer $REPLACE_extensive
+longer @@UNKNOWN@@
 . $KEEP
 
 I $KEEP
@@ -13709,7 +13431,6 @@ prefers $REPLACE_favourite
 activities $KEEP
 are $KEEP
 outin $REPLACE_out
-in $APPEND_in
 the $APPEND_open
 freeair $REPLACE_air
 . $KEEP
@@ -13747,7 +13468,6 @@ for $KEEP
 the $KEEP
 children $APPEND_'s
 enjoy $REPLACE_enjoyment
-, $APPEND_,
 so $KEEP
 I $KEEP
 'm $KEEP
@@ -13785,7 +13505,7 @@ There $KEEP
 are $KEEP
 mainly $KEEP
 4 $KEEP
-stepts $REPLACE_steps
+stepts @@UNKNOWN@@
 , $REPLACE_:
 design $KEEP
 , $KEEP
@@ -13802,7 +13522,7 @@ will $KEEP
 explain $KEEP
 these $KEEP
 different $KEEP
-stept $REPLACE_steps
+stept @@UNKNOWN@@
 . $KEEP
 
 Firstly $KEEP
@@ -13837,7 +13557,6 @@ other $KEEP
 card $KEEP
 , $KEEP
 such $APPEND_,
-such $APPEND_such
 as $KEEP
 notes $KEEP
 for $KEEP
@@ -13908,12 +13627,10 @@ printing $KEEP
 sheets $KEEP
 , $DELETE
 and $KEEP
-devid $REPLACE_divide
+devid @@UNKNOWN@@
 them $KEEP
 into $KEEP
-three $APPEND_categories
-: $APPEND_:
-" $APPEND_"
+three @@UNKNOWN@@
 levels."bad $REPLACE_bad
 sheets $KEEP
 " $KEEP
@@ -13925,11 +13642,8 @@ disposal $KEEP
 where $KEEP
 things $KEEP
 are $KEEP
-sercurely $REPLACE_securely
+sercurely @@UNKNOWN@@
 destroyed."Good $REPLACE_destroyed
-; $APPEND_;
-" $APPEND_"
-Good $APPEND_Good
 quality $KEEP
 sheets $KEEP
 " $KEEP
@@ -13955,7 +13669,7 @@ sheets $KEEP
 that $KEEP
 are $KEEP
 " $KEEP
-partally $REPLACE_partially
+partally @@UNKNOWN@@
 damages $TRANSFORM_VERB_VBZ_VBN
 " $KEEP
 will $KEEP
@@ -14010,7 +13724,6 @@ for $DELETE
 me $DELETE
 a $KEEP
 lot $APPEND_to
-me $APPEND_me
 , $REPLACE_.
 It $KEEP
 means $KEEP
@@ -14070,7 +13783,7 @@ my $KEEP
 flag $KEEP
 & $KEEP
 supported $DELETE
-phrases $REPLACE_cheers
+phrases @@UNKNOWN@@
 . $KEEP
 
 I $KEEP
@@ -14081,7 +13794,6 @@ dream $TRANSFORM_VERB_VB_VBZ
 to $REPLACE_of
 be $REPLACE_being
 one $REPLACE_a
-member $APPEND_member
 of $KEEP
 the $KEEP
 most $KEEP
@@ -14136,7 +13848,6 @@ are $KEEP
 important $KEEP
 in $KEEP
 deciding $APPEND_on
-a $APPEND_a
 career $KEEP
 in $KEEP
 our $KEEP
@@ -14187,7 +13898,6 @@ in $REPLACE_for
 a $KEEP
 long $KEEP
 time $APPEND_,
-we $APPEND_we
 could $KEEP
 definitely $KEEP
 turn $REPLACE_make
@@ -14232,7 +13942,7 @@ my $KEEP
 life $KEEP
 . $KEEP
 
-Costumers $REPLACE_Customer
+Costumers @@UNKNOWN@@
 ' $DELETE
 satisfaction $KEEP
 brings $KEEP
@@ -14255,7 +13965,6 @@ smile $KEEP
 on $KEEP
 the $KEEP
 customers $APPEND_'
-faces $APPEND_faces
 gives $APPEND_us
 the $KEEP
 best $KEEP
@@ -14315,7 +14024,7 @@ a $KEEP
 good $KEEP
 way $KEEP
 to $KEEP
-get $APPEND_paid
+get @@UNKNOWN@@
 better $KEEP
 paid $DELETE
 . $KEEP
@@ -14388,7 +14097,6 @@ news $KEEP
 . $KEEP
 
 I $APPEND_want
-to $APPEND_to
 tell $KEEP
 you $KEEP
 about $KEEP
@@ -14397,7 +14105,6 @@ concert $KEEP
 which $KEEP
 I $KEEP
 was $REPLACE_went
-to $APPEND_to
 last $KEEP
 month $KEEP
 . $KEEP
@@ -14446,8 +14153,6 @@ it $KEEP
 clean $KEEP
 . $KEEP
 
-They $APPEND_They
-have $APPEND_have
 Purchased $TRANSFORM_CASE_LOWER
 green $KEEP
 bins $KEEP
@@ -14469,7 +14174,6 @@ all $KEEP
 . $KEEP
 
 they $TRANSFORM_CASE_CAPITAL
-also $APPEND_also
 have $KEEP
 also $DELETE
 a $KEEP
@@ -14558,16 +14262,6 @@ always $KEEP
 dream $TRANSFORM_VERB_VB_VBN
 to $REPLACE_of
 achieve $TRANSFORM_VERB_VB_VBG
-, $APPEND_,
-something $APPEND_something
-touches $APPEND_touches
-you $APPEND_you
-inside $APPEND_inside
-not $APPEND_not
-only $APPEND_only
-when $APPEND_when
-you $APPEND_you
-do $APPEND_do
 it $KEEP
 , $KEEP
 something $DELETE
@@ -14651,8 +14345,7 @@ the $KEEP
 future $KEEP
 ? $KEEP
 
-Possible $REPLACE_Possibly
-, $APPEND_,
+Possible @@UNKNOWN@@
 we $KEEP
 will $APPEND_live
 in $KEEP
@@ -14693,7 +14386,6 @@ think $KEEP
 that $KEEP
 not $KEEP
 many $APPEND_things
-will $APPEND_will
 change $KEEP
 . $KEEP
 
@@ -14716,16 +14408,12 @@ white $KEEP
 ball $TRANSFORM_VERB_VB_VBZ
 . $KEEP
 
-A $KEEP
 Variety $TRANSFORM_CASE_LOWER
 of $KEEP
 negative $KEEP
 impacts $KEEP
 appears $TRANSFORM_VERB_VBZ_VB
-as $APPEND_as
 under $REPLACE_a
-result $APPEND_result
-of $APPEND_of
 rapid $KEEP
 urbanization $KEEP
 . $KEEP
@@ -14741,8 +14429,7 @@ them $KEEP
 Not $KEEP
 only $KEEP
 the $KEEP
-growing $APPEND_proportion
-of $APPEND_of
+growing @@UNKNOWN@@
 impervious $KEEP
 surfaces $KEEP
 , $KEEP
@@ -14794,9 +14481,9 @@ of $KEEP
 green $KEEP
 infrastructure $KEEP
 full $DELETE
-fills $REPLACE_fulfils
+fills @@UNKNOWN@@
 the $KEEP
-storm $REPLACE_stormwater
+storm @@UNKNOWN@@
 water $REPLACE_-
 control $KEEP
 needs $KEEP
@@ -14837,8 +14524,7 @@ sport $KEEP
 and $KEEP
 so $KEEP
 do $KEEP
-i.i $REPLACE_I.
-I $APPEND_I
+i.i @@UNKNOWN@@
 really $KEEP
 like $KEEP
 soccer $KEEP
@@ -14881,8 +14567,7 @@ requires $KEEP
 us $APPEND_to
 unite $KEEP
 and $KEEP
-assistance $REPLACE_assist
-each $APPEND_each
+assistance @@UNKNOWN@@
 together $REPLACE_other
 . $KEEP
 
@@ -14908,7 +14593,6 @@ to $KEEP
 do $KEEP
 exercise $KEEP
 , $APPEND_have
-a $APPEND_a
 reasonable $KEEP
 diet $KEEP
 ... $KEEP
@@ -14931,7 +14615,6 @@ realize $KEEP
 it $KEEP
 is $KEEP
 correct $REPLACE_true
-. $APPEND_.
 
 Our $KEEP
 Mistakes $TRANSFORM_CASE_LOWER
@@ -14949,7 +14632,6 @@ had't $REPLACE_n't
 got $REPLACE_make
 any $KEEP
 mistake $TRANSFORM_VERB_VB_VBZ
-, $APPEND_,
 we $KEEP
 would $KEEP
 n't $KEEP
@@ -14975,7 +14657,6 @@ so $REPLACE_.
 
 but $TRANSFORM_CASE_CAPITAL
 in $REPLACE_on
-the $APPEND_the
 another $REPLACE_other
 way $REPLACE_hand
 there $KEEP
@@ -15116,10 +14797,8 @@ of $KEEP
 advertisement $KEEP
 should $KEEP
 be $KEEP
-forbiden $REPLACE_forbidden
+forbiden @@UNKNOWN@@
 reasoning $REPLACE_on
-account $APPEND_account
-of $APPEND_of
 the $KEEP
 fact $APPEND_that
 young $KEEP
@@ -15302,7 +14981,6 @@ with $REPLACE_about
 an $KEEP
 advertisement $KEEP
 about $REPLACE_for
-a $APPEND_a
 barbie $KEEP
 doll $KEEP
 and $KEEP
@@ -15339,10 +15017,8 @@ daughter $KEEP
 a $KEEP
 three $APPEND_-
 years $TRANSFORM_AGREEMENT_SINGULAR
-- $APPEND_-
 old $KEEP
-kid- $REPLACE_kid
-- $APPEND_-
+kid- @@UNKNOWN@@
 did $KEEP
 not $KEEP
 understand $KEEP
@@ -15370,7 +15046,7 @@ conclusion $KEEP
 I $KEEP
 am $KEEP
 strongly $APPEND_in
-favourable $REPLACE_favour
+favourable @@UNKNOWN@@
 to $REPLACE_of
 this $KEEP
 statement $KEEP
@@ -15382,18 +15058,17 @@ kids $KEEP
 , $KEEP
 not $KEEP
 only $KEEP
-until $REPLACE_upto
+until @@UNKNOWN@@
 5 $KEEP
 but $KEEP
-until $REPLACE_upto
+until @@UNKNOWN@@
 8 $KEEP
 years $KEEP
 old $KEEP
 should $KEEP
 be $KEEP
-forbiden $REPLACE_forbidden
+forbiden @@UNKNOWN@@
 reasoning $REPLACE_because
-of $APPEND_of
 the $KEEP
 kid $KEEP
 's $KEEP
@@ -15464,7 +15139,7 @@ have $KEEP
 asked $KEEP
 about $REPLACE_for
 a $KEEP
-server $REPLACE_waiter
+server @@UNKNOWN@@
 in $KEEP
 your $KEEP
 cafe $KEEP
@@ -15524,7 +15199,6 @@ before $KEEP
 , $KEEP
 I $KEEP
 worked $APPEND_8
-hours $APPEND_hours
 per $KEEP
 day $KEEP
 for $DELETE
@@ -15554,7 +15228,6 @@ day $KEEP
 
 I $KEEP
 made $REPLACE_did
-a $APPEND_a
 one $APPEND_-
 week $KEEP
 a $DELETE
@@ -15617,7 +15290,7 @@ short $KEEP
 duty $KEEP
 stroke $KEEP
 and $APPEND_will
-come $APPEND_punctually
+come @@UNKNOWN@@
 every $KEEP
 time $KEEP
 punctual $DELETE
@@ -15956,7 +15629,6 @@ goes $KEEP
 to $KEEP
 his $KEEP
 first $APPEND_day
-at $APPEND_at
 school $KEEP
 day $DELETE
 , $APPEND_and
@@ -15981,7 +15653,7 @@ was $KEEP
 a $KEEP
 pair $KEEP
 of $KEEP
-googles $REPLACE_goggles
+googles @@UNKNOWN@@
 that $KEEP
 said $KEEP
 the $KEEP
@@ -16125,7 +15797,6 @@ biggest $KEEP
 concernment $REPLACE_concerns
 of $KEEP
 advanced $REPLACE_the
-modern $APPEND_modern
 world $KEEP
 . $KEEP
 
@@ -16136,12 +15807,10 @@ be $KEEP
 attributed $KEEP
 to $KEEP
 increased $KEEP
-consumeristic $REPLACE_consumerism
+consumeristic @@UNKNOWN@@
 nature $DELETE
 and $KEEP
 unware $REPLACE_lack
-of $APPEND_of
-awareness $APPEND_awareness
 about $KEEP
 waste $KEEP
 management $KEEP
@@ -16363,7 +16032,7 @@ of $KEEP
 transport $KEEP
 . $KEEP
 
-Having $REPLACE_Bearing
+Having @@UNKNOWN@@
 in $KEEP
 mind $KEEP
 that $KEEP
@@ -16435,8 +16104,6 @@ want $KEEP
 to $KEEP
 be $APPEND_a
 doctor?.Many $REPLACE_doctor
-? $APPEND_?
-Many $APPEND_Many
 people $KEEP
 around $KEEP
 the $KEEP
@@ -16560,7 +16227,6 @@ relations $KEEP
 Now $KEEP
 a $DELETE
 days $REPLACE_Nowadays
-, $APPEND_,
 nobody $KEEP
 has $KEEP
 enough $KEEP
@@ -16569,7 +16235,6 @@ to $KEEP
 spend $KEEP
 with $KEEP
 family $APPEND_.
-Instead $APPEND_Instead
 , $KEEP
 Rather $DELETE
 they $KEEP
@@ -16676,7 +16341,6 @@ game $DELETE
 is $KEEP
 a $KEEP
 teamwork $REPLACE_team
-sport $APPEND_sport
 . $KEEP
 
 If $KEEP
@@ -16734,7 +16398,7 @@ characterizing $TRANSFORM_VERB_VBG_VB
 epistemologically $DELETE
 Spanish $KEEP
 tourism $KEEP
-research $APPEND_epistemologically
+research @@UNKNOWN@@
 through $KEEP
 the $KEEP
 study $KEEP
@@ -16844,7 +16508,6 @@ schedule $KEEP
 . $KEEP
 
 hello $TRANSFORM_CASE_CAPITAL
-, $APPEND_,
 i $TRANSFORM_CASE_CAPITAL
 like $KEEP
 people $KEEP
@@ -16861,7 +16524,6 @@ fun $KEEP
 with $KEEP
 children $APPEND_.
 its $REPLACE_It
-'s $APPEND_'s
 very $KEEP
 cool $KEEP
 . $KEEP
@@ -16885,11 +16547,9 @@ about $KEEP
 the $KEEP
 kitchen $APPEND_.
 its $REPLACE_It
-'s $APPEND_'s
 cool $APPEND_.
 my $TRANSFORM_CASE_CAPITAL
 dreamjob $REPLACE_dream
-job $APPEND_job
 is $KEEP
 a $DELETE
 cook $APPEND_.
@@ -17067,7 +16727,6 @@ is $KEEP
 the $KEEP
 gastronomic $KEEP
 capital $APPEND_.
-Therefore $APPEND_Therefore
 , $KEEP
 therefore $DELETE
 they $KEEP
@@ -17253,7 +16912,7 @@ are $KEEP
 in $DELETE
 relax $REPLACE_also
 much $KEEP
-more $APPEND_relaxed
+more @@UNKNOWN@@
 than $KEEP
 people $KEEP
 who $KEEP
@@ -17320,7 +16979,6 @@ of $KEEP
 my $KEEP
 mother $KEEP
 , $REPLACE_.
-It $APPEND_It
 is $KEEP
 my $KEEP
 favorite $KEEP
@@ -17355,7 +17013,6 @@ n't $KEEP
 like $KEEP
 of $REPLACE_people
 peoples $REPLACE_who
-are $APPEND_are
 bad $KEEP
 of $REPLACE_at
 volei $KEEP
@@ -17407,7 +17064,6 @@ quality $KEEP
 of $KEEP
 life $KEEP
 took $REPLACE_have
-taken $APPEND_taken
 a $REPLACE_on
 new $KEEP
 dimensions $KEEP
@@ -17460,7 +17116,6 @@ in $KEEP
 our $KEEP
 life $REPLACE_lives
 , $REPLACE_.
-The $APPEND_The
 Automobile $TRANSFORM_CASE_LOWER
 segment $REPLACE_industry
 increased $KEEP
@@ -17473,9 +17128,7 @@ car $APPEND_has
 becomes $TRANSFORM_VERB_VBZ_VBN
 a $KEEP
 need $REPLACE_necessity
-rather $APPEND_rather
 from $REPLACE_than
-a $APPEND_a
 luxory $REPLACE_luxury
 . $KEEP
 
@@ -17515,12 +17168,10 @@ car $KEEP
 can $KEEP
 help $KEEP
 him $REPLACE_a
-person $APPEND_person
 to $KEEP
 go $KEEP
 anywhere $KEEP
 and $APPEND_at
-any $APPEND_any
 anytime $REPLACE_time
 in $KEEP
 much $KEEP
@@ -17605,8 +17256,6 @@ compare $APPEND_their
 child $REPLACE_children
 to $KEEP
 others $APPEND_,
-and $APPEND_and
-this $APPEND_this
 also $KEEP
 plays $KEEP
 a $KEEP
@@ -17809,7 +17458,6 @@ the $REPLACE_There
 are $KEEP
 a $KEEP
 lot $APPEND_of
-different $APPEND_different
 type $TRANSFORM_VERB_VB_VBZ
 of $KEEP
 sports $KEEP
@@ -17845,14 +17493,13 @@ ball $KEEP
 in $REPLACE_into
 the $KEEP
 opponent $TRANSFORM_AGREEMENT_PLURAL
-' $APPEND_'
 goal $KEEP
 . $KEEP
 in $TRANSFORM_CASE_CAPITAL
 this $KEEP
 sport $KEEP
 , $KEEP
-you $APPEND_principally
+you @@UNKNOWN@@
 improve $KEEP
 principally $DELETE
 the $KEEP
@@ -17897,7 +17544,6 @@ can $KEEP
 take $KEEP
 part $KEEP
 at $REPLACE_in
-the $APPEND_the
 champions $KEEP
 league $KEEP
 ( $KEEP
@@ -17917,7 +17563,6 @@ on $KEEP
 . $KEEP
 
 lately $REPLACE_These
-days $APPEND_days
 a $KEEP
 lot $KEEP
 of $KEEP
@@ -17944,7 +17589,6 @@ techinique $REPLACE_technique
 . $KEEP
 
 homewer $REPLACE_However
-, $APPEND_,
 a $KEEP
 lot $KEEP
 of $KEEP
@@ -18082,7 +17726,6 @@ is $KEEP
 going $KEEP
 to $KEEP
 be $APPEND_this
-way $APPEND_way
 for $KEEP
 all $KEEP
 the $DELETE
@@ -18126,7 +17769,7 @@ Germany $KEEP
 . $KEEP
 
 The $KEEP
-diagramm $REPLACE_diagram
+diagramm @@UNKNOWN@@
 shows $KEEP
 the $KEEP
 development $KEEP
@@ -18169,7 +17812,6 @@ than $DELETE
 again $KEEP
 . $KEEP
 
-In $KEEP
 1998 $APPEND_,
 you $KEEP
 are $KEEP
@@ -18214,7 +17856,6 @@ my $KEEP
 life $KEEP
 . $KEEP
 
-The $KEEP
 Actor $REPLACE_actors
 's $TRANSFORM_AGREEMENT_SINGULAR
 interpretativos $REPLACE_performances
@@ -18231,7 +17872,6 @@ all $REPLACE_the
 film $KEEP
 . $KEEP
 
-The $KEEP
 Especial $REPLACE_special
 effects $KEEP
 are $KEEP
@@ -18281,10 +17921,9 @@ life $KEEP
 , $KEEP
 and $KEEP
 ever $REPLACE_it
-always $APPEND_always
 seems $APPEND_like
 a $KEEP
-nowadays $REPLACE_contemporary
+nowadays @@UNKNOWN@@
 film $KEEP
 . $KEEP
 
@@ -18314,10 +17953,10 @@ number $KEEP
 of $KEEP
 forests $KEEP
 and $KEEP
-lands $REPLACE_wetlands
+lands @@UNKNOWN@@
 are $KEEP
 replaced $KEEP
-by $APPEND_tower
+by @@UNKNOWN@@
 blocks $KEEP
 and $KEEP
 transport $KEEP
@@ -18449,10 +18088,9 @@ the $KEEP
 centre $KEEP
 or $KEEP
 somewhere $REPLACE_anywhere
-that $APPEND_that
 is $KEEP
 too $KEEP
-smoke $REPLACE_polluted
+smoke @@UNKNOWN@@
 , $KEEP
 so $KEEP
 they $KEEP
@@ -18464,8 +18102,6 @@ air $KEEP
 at $KEEP
 recommended $KEEP
 levels.on $REPLACE_levels
-. $APPEND_.
-In $APPEND_In
 the $KEEP
 morning $APPEND_,
 a $KEEP
@@ -18529,7 +18165,6 @@ but $KEEP
 for $KEEP
 mass $REPLACE_most
 poeple $REPLACE_people
-, $APPEND_,
 public $KEEP
 transport $KEEP
 is $KEEP
@@ -18548,10 +18183,9 @@ could $REPLACE_can
 afford $KEEP
 to $KEEP
 make $KEEP
-conveyenc $REPLACE_journeys
+conveyenc @@UNKNOWN@@
 by $KEEP
 car $APPEND_.
-A $APPEND_A
 .car $REPLACE_car
 is $KEEP
 easy $KEEP
@@ -18571,29 +18205,22 @@ all $KEEP
 clasess $REPLACE_classes
 of $KEEP
 poeple $REPLACE_people
-. $APPEND_.
 
-Public $APPEND_Public
-transport $APPEND_transport
-mainly $APPEND_mainly
-means $APPEND_means
 public $KEEP
 transport $DELETE
 means $DELETE
 mainly $DELETE
 pubic $REPLACE_bus
-. $APPEND_.
 bus.people $REPLACE_People
 used $KEEP
 to $KEEP
 travell $REPLACE_travel
 long $KEEP
-disistance $REPLACE_distances
+disistance @@UNKNOWN@@
 by $KEEP
 publis $REPLACE_public
 bus $KEEP
 .it $REPLACE_.
-It $APPEND_It
 is $KEEP
 possible $KEEP
 to $KEEP
@@ -18611,7 +18238,6 @@ in $DELETE
 bus $KEEP
 . $KEEP
 
-The $KEEP
 Coat $TRANSFORM_CASE_LOWER
 of $KEEP
 arms $KEEP
@@ -18640,14 +18266,13 @@ the $KEEP
 output $KEEP
 is $APPEND_a
 black $KEEP
-rebelling $REPLACE_rampant
+rebelling @@UNKNOWN@@
 bear $KEEP
 holding $KEEP
 in $KEEP
 the $REPLACE_its
 left $KEEP
-leg $REPLACE_arm
-, $APPEND_,
+leg @@UNKNOWN@@
 on $KEEP
 the $KEEP
 left $KEEP
@@ -18656,10 +18281,8 @@ golden $KEEP
 ax $KEEP
 , $KEEP
 undertwo $REPLACE_under
-two $APPEND_two
 silver $KEEP
 starlet $TRANSFORM_AGREEMENT_PLURAL
-. $APPEND_.
 
 I $KEEP
 like $KEEP
@@ -18673,7 +18296,6 @@ speed $KEEP
 , $KEEP
 and $KEEP
 its $TRANSFORM_AGREEMENT_SINGULAR
-'s $APPEND_'s
 fun $KEEP
 to $KEEP
 go $KEEP
@@ -18727,8 +18349,6 @@ in $KEEP
 collage $APPEND_.
 I $KEEP
 search $REPLACE_have
-been $APPEND_been
-looking $APPEND_looking
 for $APPEND_a
 job $KEEP
 but $KEEP
@@ -18755,7 +18375,6 @@ I $KEEP
 wish $REPLACE_hope
 to $APPEND_get
 married $APPEND_to
-someone $APPEND_someone
 who $KEEP
 I $KEEP
 love $KEEP
@@ -18808,7 +18427,7 @@ that $KEEP
 there $KEEP
 is $REPLACE_was
 some $KEEP
-conflication $REPLACE_conflict
+conflication @@UNKNOWN@@
 between $KEEP
 England $KEEP
 and $KEEP
@@ -18995,11 +18614,9 @@ the $DELETE
 richard $TRANSFORM_CASE_CAPITAL
 's $KEEP
 family $APPEND_lives
-opposite $APPEND_opposite
 . $KEEP
 
 Richards $TRANSFORM_AGREEMENT_SINGULAR
-'s $APPEND_'s
 parents $KEEP
 are $KEEP
 a $DELETE
@@ -19086,7 +18703,6 @@ holidays $KEEP
 I $KEEP
 hope $KEEP
 know $REPLACE_I
-meet $APPEND_meet
 good $KEEP
 people $KEEP
 and $KEEP
@@ -19105,7 +18721,6 @@ soon $KEEP
 The $KEEP
 rapid $KEEP
 advancing $TRANSFORM_VERB_VBG_VB
-of $APPEND_of
 information $KEEP
 technology $KEEP
 and $KEEP
@@ -19145,7 +18760,7 @@ It $KEEP
 influenced $TRANSFORM_VERB_VBN_VBZ
 the $DELETE
 consumers $REPLACE_customer
-behavior $APPEND_relating
+behavior @@UNKNOWN@@
 on $REPLACE_to
 banking $KEEP
 services $KEEP
@@ -19303,7 +18918,7 @@ it $KEEP
 is $KEEP
 the $KEEP
 most $KEEP
-popular $APPEND_sport
+popular @@UNKNOWN@@
 on $REPLACE_in
 the $KEEP
 worl $REPLACE_world
@@ -19363,7 +18978,7 @@ much $KEEP
 better $KEEP
 so $KEEP
 they $KEEP
-decided $REPLACE_persuaded
+decided @@UNKNOWN@@
 her $KEEP
 mom $KEEP
 and $KEEP
@@ -19410,8 +19025,7 @@ park $KEEP
 , $KEEP
 to $KEEP
 continued $KEEP
-piking $REPLACE_picking
-up $APPEND_up
+piking @@UNKNOWN@@
 the $KEEP
 trash $KEEP
 from $KEEP
@@ -19491,7 +19105,6 @@ that $KEEP
 time $KEEP
 the $KEEP
 light $TRANSFORM_VERB_VB_VBZ
-were $APPEND_were
 turned $KEEP
 off $KEEP
 , $KEEP
@@ -19512,7 +19125,6 @@ on $KEEP
 . $KEEP
 
 They $APPEND_went
-to $APPEND_to
 slept $TRANSFORM_VERB_VBN_VB
 , $KEEP
 at $REPLACE_and
@@ -19679,7 +19291,6 @@ did $KEEP
 n't $KEEP
 have $KEEP
 nothing $REPLACE_anything
-. $APPEND_.
 so $TRANSFORM_CASE_CAPITAL
 they $KEEP
 , $DELETE
@@ -19703,12 +19314,11 @@ reason $KEEP
 
 She $KEEP
 had $KEEP
-allude $REPLACE_evaded
+allude @@UNKNOWN@@
 the $KEEP
 police $KEEP
 before $KEEP
 that $APPEND_,
-but $APPEND_but
 she $KEEP
 did $KEEP
 n't $KEEP
@@ -19734,7 +19344,6 @@ on $REPLACE_in
 her $KEEP
 mom $APPEND_'s
 wallet $APPEND_to
-see $APPEND_see
 if $KEEP
 she $KEEP
 did $DELETE
